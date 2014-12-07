@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0">
+    <title>Amtliche Vermessung Kanton Solothurn</title>
+    <subtitle>Amtliche Vermessung des Kantons Solothurn. Gemeindeweise partitioniert in verschiedenen Formaten und Bezugsrahmen.</subtitle>
+    <link href="http://not.implemented.yet" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Download Service Feed Metadata" />
+    <link href="http://www.catais.org/inspire/dls/amtlichevermessung.xml" hreflang="de" rel="self" type="application/atom+xml" title="Download Service Feed" />
+    <link href="http://not.implemented.yet" hreflang="de" rel="search" type="application/opensearchdescription+xml" title="OpenSearch Description" />
+    <id>http://www.catais.org/inspire/amtlichevermessung</id>
+    <rights>Daten dürfen frei genutzt werden.</rights>
+    <updated>2014-12-06T00:00:00Z</updated>
+    <author>
+        <name>Amt für Geoinformation Kanton Solothurn</name>
+        <email>agi@bd.so.ch</email>
+    </author>
+    
+    <entry>
+        <title>AV - Luterbach (2527)</title>
+        <summary>Amtliche Vermessung der Gemeinde Luterbach (2527)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>fc4f8981-60c5-46dc-9c54-11a14cd3fff3</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/fc4f8981-60c5-46dc-9c54-11a14cd3fff3" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/fc4f8981-60c5-46dc-9c54-11a14cd3fff3-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.20038080 7.57072773 47.22760284 7.60437960</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Horriwil (2523)</title>
+        <summary>Amtliche Vermessung der Gemeinde Horriwil (2523)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>b0db6a2f-9461-4ea3-8efe-1f8aee8a65a9</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/b0db6a2f-9461-4ea3-8efe-1f8aee8a65a9" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/b0db6a2f-9461-4ea3-8efe-1f8aee8a65a9-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.17084074 7.61088913 47.19033322 7.64598963</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Niedergösgen (2495)</title>
+        <summary>Amtliche Vermessung der Gemeinde Niedergösgen (2495)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>870e5a2a-7ac2-4d7b-836c-d6f0a9724b86</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/870e5a2a-7ac2-4d7b-836c-d6f0a9724b86" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/870e5a2a-7ac2-4d7b-836c-d6f0a9724b86-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.36257445 7.96518648 47.38746988 8.00081165</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lostorf (2493)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lostorf (2493)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>152bb857-621c-47e2-a1eb-3608594e6179</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/152bb857-621c-47e2-a1eb-3608594e6179" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/152bb857-621c-47e2-a1eb-3608594e6179-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.37086711 7.89345631 47.40815635 7.97132678</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Winznau (2501)</title>
+        <summary>Amtliche Vermessung der Gemeinde Winznau (2501)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ac5550de-2ea6-4ec9-9057-db0632dbd87d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ac5550de-2ea6-4ec9-9057-db0632dbd87d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ac5550de-2ea6-4ec9-9057-db0632dbd87d-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.35714026 7.89610385 47.38228208 7.94246821</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Grenchen (2546)</title>
+        <summary>Amtliche Vermessung der Gemeinde Grenchen (2546)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>9a1a5a8e-f3d9-488d-811a-d1c3b44bd917</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/9a1a5a8e-f3d9-488d-811a-d1c3b44bd917" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/9a1a5a8e-f3d9-488d-811a-d1c3b44bd917-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.15951701 7.34041303 47.24055425 7.43179541</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Seewen (2480)</title>
+        <summary>Amtliche Vermessung der Gemeinde Seewen (2480)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>fb0f7f7b-408d-491a-9f3f-5a6426643d2f</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/fb0f7f7b-408d-491a-9f3f-5a6426643d2f" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/fb0f7f7b-408d-491a-9f3f-5a6426643d2f-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.40907478 7.59998442 47.44712876 7.68469044</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hauenstein-Ifenthal (2491)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hauenstein-Ifenthal (2491)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>20456238-0930-4e26-b6a3-b283ae06252d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/20456238-0930-4e26-b6a3-b283ae06252d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/20456238-0930-4e26-b6a3-b283ae06252d-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.35906908 7.83362562 47.38447342 7.88034988</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Wisen (SO) (2502)</title>
+        <summary>Amtliche Vermessung der Gemeinde Wisen (SO) (2502)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>23206fa1-44ec-44b9-bc73-ac3dc7c1dbb0</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/23206fa1-44ec-44b9-bc73-ac3dc7c1dbb0" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/23206fa1-44ec-44b9-bc73-ac3dc7c1dbb0-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.38343970 7.86913708 47.40726642 7.90970074</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Rohr (SO) (2498)</title>
+        <summary>Amtliche Vermessung der Gemeinde Rohr (SO) (2498)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>242603e8-ed9d-4c36-9838-bb14f3a69715</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/242603e8-ed9d-4c36-9838-bb14f3a69715" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/242603e8-ed9d-4c36-9838-bb14f3a69715-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.40334934 7.93492827 47.41883358 7.96934718</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Gempen (2474)</title>
+        <summary>Amtliche Vermessung der Gemeinde Gempen (2474)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>0ae2acb3-8b99-4929-a372-3a38007b871f</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/0ae2acb3-8b99-4929-a372-3a38007b871f" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/0ae2acb3-8b99-4929-a372-3a38007b871f-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.46459465 7.64081414 47.49686757 7.68228570</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Obergösgen (2497)</title>
+        <summary>Amtliche Vermessung der Gemeinde Obergösgen (2497)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>484d766b-26ac-4bc2-8d94-e8b847cd2990</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/484d766b-26ac-4bc2-8d94-e8b847cd2990" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/484d766b-26ac-4bc2-8d94-e8b847cd2990-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.35204646 7.93796563 47.37463849 7.96749997</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Trimbach (2500)</title>
+        <summary>Amtliche Vermessung der Gemeinde Trimbach (2500)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>591d517d-3ac0-4bb1-a466-44a921091d67</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/591d517d-3ac0-4bb1-a466-44a921091d67" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/591d517d-3ac0-4bb1-a466-44a921091d67-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.35634650 7.85577086 47.38516787 7.91865235</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Bettlach (2543)</title>
+        <summary>Amtliche Vermessung der Gemeinde Bettlach (2543)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>05a7c2d6-937a-4369-b47f-ff1ec8d4705c</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/05a7c2d6-937a-4369-b47f-ff1ec8d4705c" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/05a7c2d6-937a-4369-b47f-ff1ec8d4705c-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.17923064 7.38924535 47.23231823 7.44993551</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Gerlafingen (2519)</title>
+        <summary>Amtliche Vermessung der Gemeinde Gerlafingen (2519)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c83db786-7a65-4df0-b917-ac84c66da501</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c83db786-7a65-4df0-b917-ac84c66da501" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c83db786-7a65-4df0-b917-ac84c66da501-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.16244730 7.55889774 47.17777826 7.58670413</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Langendorf (2550)</title>
+        <summary>Amtliche Vermessung der Gemeinde Langendorf (2550)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>79a189f1-6be7-4a0d-bfd6-5ec7a27d4b82</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/79a189f1-6be7-4a0d-bfd6-5ec7a27d4b82" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/79a189f1-6be7-4a0d-bfd6-5ec7a27d4b82-2014-12-06T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-06T00:00:00Z</updated>
+        <georss:box>47.21240311 7.50161168 47.23076770 7.52818551</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Selzach (2556)</title>
+        <summary>Amtliche Vermessung der Gemeinde Selzach (2556)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>fb745c9e-f384-4a19-8fd5-fe67e9b67204</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/fb745c9e-f384-4a19-8fd5-fe67e9b67204" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/fb745c9e-f384-4a19-8fd5-fe67e9b67204-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.18393834 7.40932990 47.25166242 7.48525687</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Biezwil (2445)</title>
+        <summary>Amtliche Vermessung der Gemeinde Biezwil (2445)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>7995b9bf-b162-4aa5-8d17-194d55ec3fe1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/7995b9bf-b162-4aa5-8d17-194d55ec3fe1" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/7995b9bf-b162-4aa5-8d17-194d55ec3fe1-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.09763598 7.40496094 47.12336422 7.43734902</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kappel (SO) (2580)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kappel (SO) (2580)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>63a8ab5c-eb55-411b-8c5f-5607ea876c98</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/63a8ab5c-eb55-411b-8c5f-5607ea876c98" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/63a8ab5c-eb55-411b-8c5f-5607ea876c98-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.31080688 7.83209875 47.33337201 7.88082440</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lüterkofen-Ichertswil (2455)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lüterkofen-Ichertswil (2455)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>224e1e68-52f4-4322-9edb-e7a3915c0ff8</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/224e1e68-52f4-4322-9edb-e7a3915c0ff8" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/224e1e68-52f4-4322-9edb-e7a3915c0ff8-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.15204224 7.47959511 47.17514644 7.52292663</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Rickenbach (SO) (2582)</title>
+        <summary>Amtliche Vermessung der Gemeinde Rickenbach (SO) (2582)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c32182c9-56c0-4f65-84ce-117664d76092</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c32182c9-56c0-4f65-84ce-117664d76092" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c32182c9-56c0-4f65-84ce-117664d76092-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.32361794 7.84002648 47.35952464 7.87331611</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Buchegg (2465)</title>
+        <summary>Amtliche Vermessung der Gemeinde Buchegg (2465)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>bba64944-aecf-4744-82ed-c0915b6c1033</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/bba64944-aecf-4744-82ed-c0915b6c1033" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/bba64944-aecf-4744-82ed-c0915b6c1033-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.11488827 7.42179268 47.15864441 7.52975122</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Boningen (2571)</title>
+        <summary>Amtliche Vermessung der Gemeinde Boningen (2571)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>24341f62-1f2b-4aff-a654-f1fe92ab3d37</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/24341f62-1f2b-4aff-a654-f1fe92ab3d37" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/24341f62-1f2b-4aff-a654-f1fe92ab3d37-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.28837189 7.84057026 47.31382337 7.88074216</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Rüttenen (2555)</title>
+        <summary>Amtliche Vermessung der Gemeinde Rüttenen (2555)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>07e92284-28f2-46b0-9c1c-6870965927bc</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/07e92284-28f2-46b0-9c1c-6870965927bc" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/07e92284-28f2-46b0-9c1c-6870965927bc-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.21838956 7.51236840 47.26014573 7.55718547</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Erlinsbach (SO) (2503)</title>
+        <summary>Amtliche Vermessung der Gemeinde Erlinsbach (SO) (2503)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>26f3e9c2-170b-4ee6-bc6d-9422a66fc0b0</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/26f3e9c2-170b-4ee6-bc6d-9422a66fc0b0" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/26f3e9c2-170b-4ee6-bc6d-9422a66fc0b0-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.37942662 7.95630886 47.42238570 8.02741348</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Flumenthal (2545)</title>
+        <summary>Amtliche Vermessung der Gemeinde Flumenthal (2545)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>276667cd-8a36-47f7-a3f1-b098304bcdfd</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/276667cd-8a36-47f7-a3f1-b098304bcdfd" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/276667cd-8a36-47f7-a3f1-b098304bcdfd-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.22426720 7.58462524 47.24536733 7.62076912</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Walterswil (SO) (2585)</title>
+        <summary>Amtliche Vermessung der Gemeinde Walterswil (SO) (2585)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>f4f6ed56-1816-4823-b6ac-a1a2249cf9a2</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/f4f6ed56-1816-4823-b6ac-a1a2249cf9a2" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/f4f6ed56-1816-4823-b6ac-a1a2249cf9a2-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.31714266 7.94708177 47.33928460 7.99184089</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Günsberg (2547)</title>
+        <summary>Amtliche Vermessung der Gemeinde Günsberg (2547)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>03d033b6-a167-4778-af69-3699629d71f8</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/03d033b6-a167-4778-af69-3699629d71f8" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/03d033b6-a167-4778-af69-3699629d71f8-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.24921928 7.54811390 47.27634756 7.59490337</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hägendorf (2579)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hägendorf (2579)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>d7b124a2-506b-4983-835a-421c484258ba</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/d7b124a2-506b-4983-835a-421c484258ba" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/d7b124a2-506b-4983-835a-421c484258ba-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.32410560 7.79350216 47.36748283 7.85732691</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Schnottwil (2461)</title>
+        <summary>Amtliche Vermessung der Gemeinde Schnottwil (2461)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>337ef6f4-c99d-4308-893e-aad1c7a23167</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/337ef6f4-c99d-4308-893e-aad1c7a23167" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/337ef6f4-c99d-4308-893e-aad1c7a23167-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.09224806 7.36970461 47.12589678 7.41220040</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hubersdorf (2548)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hubersdorf (2548)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>0729ca99-bab1-4559-837a-6cf09501d1a1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/0729ca99-bab1-4559-837a-6cf09501d1a1" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/0729ca99-bab1-4559-837a-6cf09501d1a1-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.23851262 7.57965960 47.25122646 7.59827994</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Eppenberg-Wöschnau (2574)</title>
+        <summary>Amtliche Vermessung der Gemeinde Eppenberg-Wöschnau (2574)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>3a8608ea-ca4f-4948-bf9c-3683c45ed7b6</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/3a8608ea-ca4f-4948-bf9c-3683c45ed7b6" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/3a8608ea-ca4f-4948-bf9c-3683c45ed7b6-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.36742847 8.01663352 47.39321525 8.03136732</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lüsslingen-Nennigkofen (2464)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lüsslingen-Nennigkofen (2464)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>3b23fff9-aec5-49e0-944a-60e86e7d7fa0</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/3b23fff9-aec5-49e0-944a-60e86e7d7fa0" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/3b23fff9-aec5-49e0-944a-60e86e7d7fa0-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.17112968 7.47085492 47.20456489 7.51475961</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Solothurn (2601)</title>
+        <summary>Amtliche Vermessung der Gemeinde Solothurn (2601)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>404c6f16-9f20-4407-9ca9-7770c6dc9ae7</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/404c6f16-9f20-4407-9ca9-7770c6dc9ae7" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/404c6f16-9f20-4407-9ca9-7770c6dc9ae7-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.19594074 7.50930602 47.22022004 7.55230555</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Witterswil (2481)</title>
+        <summary>Amtliche Vermessung der Gemeinde Witterswil (2481)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>4398a6aa-1906-46ee-928a-ca2f38b1e104</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/4398a6aa-1906-46ee-928a-ca2f38b1e104" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/4398a6aa-1906-46ee-928a-ca2f38b1e104-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.47795197 7.51449005 47.49739832 7.53669684</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Oberdorf (SO) (2553)</title>
+        <summary>Amtliche Vermessung der Gemeinde Oberdorf (SO) (2553)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>d2292b4c-d1e8-4a71-8d5a-5e6433428ef1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/d2292b4c-d1e8-4a71-8d5a-5e6433428ef1" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/d2292b4c-d1e8-4a71-8d5a-5e6433428ef1-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.22030734 7.45297090 47.25763657 7.52563049</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kammersrohr (2549)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kammersrohr (2549)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>6d1da8ff-5692-4373-9bda-1a470047ca5f</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/6d1da8ff-5692-4373-9bda-1a470047ca5f" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/6d1da8ff-5692-4373-9bda-1a470047ca5f-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.24974156 7.58667696 47.26374953 7.59772376</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Feldbrunnen-St. Niklaus (2544)</title>
+        <summary>Amtliche Vermessung der Gemeinde Feldbrunnen-St. Niklaus (2544)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>4ba575d5-fa08-4309-85d0-2401b955b9ae</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/4ba575d5-fa08-4309-85d0-2401b955b9ae" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/4ba575d5-fa08-4309-85d0-2401b955b9ae-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.21186995 7.54305512 47.23899487 7.56483362</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Stüsslingen (2499)</title>
+        <summary>Amtliche Vermessung der Gemeinde Stüsslingen (2499)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ffa72419-3e5b-4982-8085-ee3df3c260ea</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ffa72419-3e5b-4982-8085-ee3df3c260ea" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ffa72419-3e5b-4982-8085-ee3df3c260ea-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.37844125 7.95114010 47.41067116 7.98610405</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Starrkirch-Wil (2584)</title>
+        <summary>Amtliche Vermessung der Gemeinde Starrkirch-Wil (2584)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>57022973-e81f-460a-b58c-5cd0fe1a0709</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/57022973-e81f-460a-b58c-5cd0fe1a0709" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/57022973-e81f-460a-b58c-5cd0fe1a0709-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.33303569 7.91582850 47.35685721 7.93454597</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lommiswil (2551)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lommiswil (2551)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>6fe6b237-c2e2-42ca-8f78-53b870b4273e</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/6fe6b237-c2e2-42ca-8f78-53b870b4273e" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/6fe6b237-c2e2-42ca-8f78-53b870b4273e-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.21421605 7.45059829 47.24374628 7.48916961</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Wangen bei Olten (2586)</title>
+        <summary>Amtliche Vermessung der Gemeinde Wangen bei Olten (2586)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>0f3d339a-ab79-474c-ada9-4281c5edc105</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/0f3d339a-ab79-474c-ada9-4281c5edc105" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/0f3d339a-ab79-474c-ada9-4281c5edc105-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.31765252 7.84876585 47.36111938 7.88927919</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Balm bei Günsberg (2541)</title>
+        <summary>Amtliche Vermessung der Gemeinde Balm bei Günsberg (2541)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>b1b84e3e-1380-4815-b2d0-9430f407f348</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/b1b84e3e-1380-4815-b2d0-9430f407f348" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/b1b84e3e-1380-4815-b2d0-9430f407f348-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.24608116 7.51869749 47.27354841 7.56861779</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Riedholz (2554)</title>
+        <summary>Amtliche Vermessung der Gemeinde Riedholz (2554)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>703debc8-0c51-4e2d-9049-91fbea90da28</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/703debc8-0c51-4e2d-9049-91fbea90da28" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/703debc8-0c51-4e2d-9049-91fbea90da28-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.21708390 7.55015233 47.25679136 7.59436852</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Olten (2581)</title>
+        <summary>Amtliche Vermessung der Gemeinde Olten (2581)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>5d9ddccc-c70f-4b92-8c66-fd884d3aee25</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/5d9ddccc-c70f-4b92-8c66-fd884d3aee25" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/5d9ddccc-c70f-4b92-8c66-fd884d3aee25-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.31102515 7.87485114 47.36892148 7.92907789</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Schönenwerd (2583)</title>
+        <summary>Amtliche Vermessung der Gemeinde Schönenwerd (2583)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>afb045f0-a48b-41a3-82c6-2faa54cead12</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/afb045f0-a48b-41a3-82c6-2faa54cead12" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/afb045f0-a48b-41a3-82c6-2faa54cead12-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.36060342 7.99428482 47.38639175 8.02521219</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Gretzenbach (2576)</title>
+        <summary>Amtliche Vermessung der Gemeinde Gretzenbach (2576)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8ba101bf-900b-4009-b58b-2128f6ff38e8</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8ba101bf-900b-4009-b58b-2128f6ff38e8" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8ba101bf-900b-4009-b58b-2128f6ff38e8-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.33260374 7.96791230 47.36743571 8.01914600</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Gunzgen (2578)</title>
+        <summary>Amtliche Vermessung der Gemeinde Gunzgen (2578)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8c86fd71-1444-493d-ab35-c83853b2338d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8c86fd71-1444-493d-ab35-c83853b2338d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8c86fd71-1444-493d-ab35-c83853b2338d-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.29386479 7.81784043 47.32761773 7.85092088</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Messen (2457)</title>
+        <summary>Amtliche Vermessung der Gemeinde Messen (2457)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>11a25e5b-34bc-449a-a197-fd79949b7c30</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/11a25e5b-34bc-449a-a197-fd79949b7c30" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/11a25e5b-34bc-449a-a197-fd79949b7c30-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.07434144 7.41113910 47.12060489 7.47509500</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Büren (SO) (2472)</title>
+        <summary>Amtliche Vermessung der Gemeinde Büren (SO) (2472)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8ef8c26c-d30a-4d81-b92c-c8aa06c8a055</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8ef8c26c-d30a-4d81-b92c-c8aa06c8a055" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8ef8c26c-d30a-4d81-b92c-c8aa06c8a055-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.42866497 7.65165147 47.46675641 7.69112105</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Fulenbach (2575)</title>
+        <summary>Amtliche Vermessung der Gemeinde Fulenbach (2575)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>91d676ec-245c-41ba-9636-ecd147d15db5</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/91d676ec-245c-41ba-9636-ecd147d15db5" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/91d676ec-245c-41ba-9636-ecd147d15db5-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.26643015 7.81390691 47.29446923 7.84954586</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lüterswil-Gächliwil (2456)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lüterswil-Gächliwil (2456)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ca8db2c1-72e2-431f-aa73-ac1e08c63cfb</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ca8db2c1-72e2-431f-aa73-ac1e08c63cfb" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ca8db2c1-72e2-431f-aa73-ac1e08c63cfb-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.10894314 7.42754962 47.13399862 7.45664565</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Bellach (2542)</title>
+        <summary>Amtliche Vermessung der Gemeinde Bellach (2542)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>fc9e1f32-b9fe-4087-91af-7659c0ba6f7c</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/fc9e1f32-b9fe-4087-91af-7659c0ba6f7c" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/fc9e1f32-b9fe-4087-91af-7659c0ba6f7c-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.19624575 7.47586330 47.22411323 7.51645393</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Däniken (2572)</title>
+        <summary>Amtliche Vermessung der Gemeinde Däniken (2572)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ca89e293-59e0-4403-909e-91b2731f5cc0</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ca89e293-59e0-4403-909e-91b2731f5cc0" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ca89e293-59e0-4403-909e-91b2731f5cc0-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.33400180 7.95878142 47.36769219 7.99182080</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kienberg (2492)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kienberg (2492)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>9a39472b-b3c1-4e9f-99cf-4cfde1bd9b10</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/9a39472b-b3c1-4e9f-99cf-4cfde1bd9b10" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/9a39472b-b3c1-4e9f-99cf-4cfde1bd9b10-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.42183361 7.94678504 47.46280757 7.98727111</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Unterramsern (2463)</title>
+        <summary>Amtliche Vermessung der Gemeinde Unterramsern (2463)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8123ed3d-2f8e-4dff-9e7a-6e0987487ca5</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8123ed3d-2f8e-4dff-9e7a-6e0987487ca5" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8123ed3d-2f8e-4dff-9e7a-6e0987487ca5-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.11210353 7.46899804 47.12566208 7.49232818</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Dulliken (2573)</title>
+        <summary>Amtliche Vermessung der Gemeinde Dulliken (2573)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>1942e903-6e4d-40fe-bbbd-7f31996ea1e8</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/1942e903-6e4d-40fe-bbbd-7f31996ea1e8" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/1942e903-6e4d-40fe-bbbd-7f31996ea1e8-2014-12-05T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-05T00:00:00Z</updated>
+        <georss:box>47.33139411 7.92814969 47.35912106 7.96467180</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hochwald (2475)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hochwald (2475)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>93442838-4bd6-415e-837b-9cf4376a5a34</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/93442838-4bd6-415e-837b-9cf4376a5a34" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/93442838-4bd6-415e-837b-9cf4376a5a34-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.43756914 7.61526246 47.47022983 7.67091265</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Zullwil (2622)</title>
+        <summary>Amtliche Vermessung der Gemeinde Zullwil (2622)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>07f42e29-825a-481a-987a-48b64cb7a3f4</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/07f42e29-825a-481a-987a-48b64cb7a3f4" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/07f42e29-825a-481a-987a-48b64cb7a3f4-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.37130559 7.58606411 47.40459529 7.61951083</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Bättwil (2471)</title>
+        <summary>Amtliche Vermessung der Gemeinde Bättwil (2471)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.48334287 7.49809327 47.50269527 7.51906263</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Lohn-Ammannsegg (2526)</title>
+        <summary>Amtliche Vermessung der Gemeinde Lohn-Ammannsegg (2526)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>12172356-5a14-4830-b3e4-221934c81524</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/12172356-5a14-4830-b3e4-221934c81524" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/12172356-5a14-4830-b3e4-221934c81524-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.16071154 7.51021649 47.18848209 7.54537921</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Grindel (2617)</title>
+        <summary>Amtliche Vermessung der Gemeinde Grindel (2617)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>25e70a78-ff2e-40db-b006-c9b8d3a002d6</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/25e70a78-ff2e-40db-b006-c9b8d3a002d6" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/25e70a78-ff2e-40db-b006-c9b8d3a002d6-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.37064753 7.48869537 47.38974306 7.52134062</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Büsserach (2614)</title>
+        <summary>Amtliche Vermessung der Gemeinde Büsserach (2614)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>2cfca2dd-45d3-4e8b-bdf9-b01600aa92e3</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/2cfca2dd-45d3-4e8b-bdf9-b01600aa92e3" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/2cfca2dd-45d3-4e8b-bdf9-b01600aa92e3-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.37882821 7.51722448 47.40098758 7.57801700</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Metzerlen-Mariastein (2477)</title>
+        <summary>Amtliche Vermessung der Gemeinde Metzerlen-Mariastein (2477)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>3616f770-27d3-4a85-9b88-1b1bcf0f87d7</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/3616f770-27d3-4a85-9b88-1b1bcf0f87d7" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/3616f770-27d3-4a85-9b88-1b1bcf0f87d7-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.44922999 7.44521449 47.48215867 7.49514212</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Himmelried (2618)</title>
+        <summary>Amtliche Vermessung der Gemeinde Himmelried (2618)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>50915d1b-89f2-4441-8d8f-ca72a7a6189a</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/50915d1b-89f2-4441-8d8f-ca72a7a6189a" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/50915d1b-89f2-4441-8d8f-ca72a7a6189a-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.41134219 7.56746303 47.43690009 7.61753957</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Nuglar-St. Pantaleon (2478)</title>
+        <summary>Amtliche Vermessung der Gemeinde Nuglar-St. Pantaleon (2478)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>5c5bc473-15d7-4cd0-bad7-a6b5d4e1888d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/5c5bc473-15d7-4cd0-bad7-a6b5d4e1888d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/5c5bc473-15d7-4cd0-bad7-a6b5d4e1888d-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.45277333 7.66655285 47.48624069 7.70987412</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kleinlützel (2619)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kleinlützel (2619)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>5d983fb9-d26e-435a-9186-1d52ea4cc959</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/5d983fb9-d26e-435a-9186-1d52ea4cc959" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/5d983fb9-d26e-435a-9186-1d52ea4cc959-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.41092867 7.37594627 47.44632526 7.45558671</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Rodersdorf (2479)</title>
+        <summary>Amtliche Vermessung der Gemeinde Rodersdorf (2479)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>5fcc3a90-f449-4331-9756-2f02dc3d9028</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/5fcc3a90-f449-4331-9756-2f02dc3d9028" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/5fcc3a90-f449-4331-9756-2f02dc3d9028-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.47070014 7.42081646 47.49810051 7.47075880</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Beinwil (SO) (2612)</title>
+        <summary>Amtliche Vermessung der Gemeinde Beinwil (SO) (2612)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>694d6a24-c4cc-47a2-a0c3-2c2a8bd98083</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/694d6a24-c4cc-47a2-a0c3-2c2a8bd98083" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/694d6a24-c4cc-47a2-a0c3-2c2a8bd98083-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.32934492 7.53686472 47.37907049 7.64442481</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Fehren (2616)</title>
+        <summary>Amtliche Vermessung der Gemeinde Fehren (2616)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8da37edb-d81e-4429-8f86-880b2c30140c</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8da37edb-d81e-4429-8f86-880b2c30140c" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8da37edb-d81e-4429-8f86-880b2c30140c-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.39036368 7.56926558 47.40514136 7.59013393</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Meltingen (2620)</title>
+        <summary>Amtliche Vermessung der Gemeinde Meltingen (2620)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>961a7f30-9caf-4887-86ca-1cd72be655a4</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/961a7f30-9caf-4887-86ca-1cd72be655a4" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/961a7f30-9caf-4887-86ca-1cd72be655a4-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.36678402 7.56845377 47.39516692 7.61509708</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Bärschwil (2611)</title>
+        <summary>Amtliche Vermessung der Gemeinde Bärschwil (2611)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>b516bf7d-2bcf-4d67-9657-48301ea6ea5e</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/b516bf7d-2bcf-4d67-9657-48301ea6ea5e" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/b516bf7d-2bcf-4d67-9657-48301ea6ea5e-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.36968503 7.43612705 47.40419672 7.49722631</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Breitenbach (2613)</title>
+        <summary>Amtliche Vermessung der Gemeinde Breitenbach (2613)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>bdd2f70f-f3bc-46cb-99f3-1e0705aa73a4</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/bdd2f70f-f3bc-46cb-99f3-1e0705aa73a4" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/bdd2f70f-f3bc-46cb-99f3-1e0705aa73a4-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.39457081 7.52523562 47.41470337 7.58771304</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Zuchwil (2534)</title>
+        <summary>Amtliche Vermessung der Gemeinde Zuchwil (2534)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c02a6c09-c940-484a-a722-9897d5130f69</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c02a6c09-c940-484a-a722-9897d5130f69" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c02a6c09-c940-484a-a722-9897d5130f69-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.19322578 7.54495160 47.21912441 7.58004996</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Erschwil (2615)</title>
+        <summary>Amtliche Vermessung der Gemeinde Erschwil (2615)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c697457c-c7eb-4bfc-900a-6be42fb50acb</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c697457c-c7eb-4bfc-900a-6be42fb50acb" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c697457c-c7eb-4bfc-900a-6be42fb50acb-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.35830474 7.51771268 47.38490920 7.57062322</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Nunningen (2621)</title>
+        <summary>Amtliche Vermessung der Gemeinde Nunningen (2621)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>d06d8dca-f146-447f-85ce-bbfdc228182b</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/d06d8dca-f146-447f-85ce-bbfdc228182b" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/d06d8dca-f146-447f-85ce-bbfdc228182b-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.36841237 7.58468037 47.41584681 7.64176143</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Dornach (2473)</title>
+        <summary>Amtliche Vermessung der Gemeinde Dornach (2473)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>d89d7a66-6641-4fb2-9948-f7a2d4d9062a</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/d89d7a66-6641-4fb2-9948-f7a2d4d9062a" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/d89d7a66-6641-4fb2-9948-f7a2d4d9062a-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.46291333 7.60449541 47.48940403 7.64701372</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hofstetten-Flüh (2476)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hofstetten-Flüh (2476)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>e814b41b-6d35-44ff-9f82-2363f69ee368</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/e814b41b-6d35-44ff-9f82-2363f69ee368" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/e814b41b-6d35-44ff-9f82-2363f69ee368-2014-12-04T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-04T00:00:00Z</updated>
+        <georss:box>47.45863942 7.48690149 47.48898054 7.53067951</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Bolken (2514)</title>
+        <summary>Amtliche Vermessung der Gemeinde Bolken (2514)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>67710b08-8c81-4ebd-b47c-0f017db4d6aa</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/67710b08-8c81-4ebd-b47c-0f017db4d6aa" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/67710b08-8c81-4ebd-b47c-0f017db4d6aa-2014-12-03T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-03T00:00:00Z</updated>
+        <georss:box>47.18451138 7.64583239 47.20178174 7.67462961</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Subingen (2532)</title>
+        <summary>Amtliche Vermessung der Gemeinde Subingen (2532)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>d67a98d4-66c7-462f-8168-a14e806ec2d2</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/d67a98d4-66c7-462f-8168-a14e806ec2d2" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/d67a98d4-66c7-462f-8168-a14e806ec2d2-2014-12-03T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-03T00:00:00Z</updated>
+        <georss:box>47.18676073 7.59977194 47.21149967 7.65122173</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Biberist (2513)</title>
+        <summary>Amtliche Vermessung der Gemeinde Biberist (2513)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>18c6038b-5477-403a-a329-0fd9cb08f90d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/18c6038b-5477-403a-a329-0fd9cb08f90d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/18c6038b-5477-403a-a329-0fd9cb08f90d-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.16036392 7.51043872 47.20226457 7.57827526</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Mümliswil-Ramiswil (2428)</title>
+        <summary>Amtliche Vermessung der Gemeinde Mümliswil-Ramiswil (2428)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>0c3988e1-9cdc-4ddd-b87a-46d645308681</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/0c3988e1-9cdc-4ddd-b87a-46d645308681" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/0c3988e1-9cdc-4ddd-b87a-46d645308681-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.32571608 7.57680279 47.37244624 7.75151934</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Egerkingen (2401)</title>
+        <summary>Amtliche Vermessung der Gemeinde Egerkingen (2401)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ed8ced54-13de-4631-b3af-66d76d7e7dc2</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ed8ced54-13de-4631-b3af-66d76d7e7dc2" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ed8ced54-13de-4631-b3af-66d76d7e7dc2-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.31074814 7.77483069 47.34071788 7.81947670</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kriegstetten (2525)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kriegstetten (2525)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c7323354-5f5a-4e85-b276-186c90d37df1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c7323354-5f5a-4e85-b276-186c90d37df1" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c7323354-5f5a-4e85-b276-186c90d37df1-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.16814300 7.58640100 47.18233357 7.60292223</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Recherswil (2530)</title>
+        <summary>Amtliche Vermessung der Gemeinde Recherswil (2530)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>f3c610c2-8c7d-4ccf-b827-01e8f3e757a4</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/f3c610c2-8c7d-4ccf-b827-01e8f3e757a4" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/f3c610c2-8c7d-4ccf-b827-01e8f3e757a4-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.15160186 7.58364283 47.17019209 7.62449330</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Etziken (2518)</title>
+        <summary>Amtliche Vermessung der Gemeinde Etziken (2518)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>bf9c1095-8e62-4687-a92f-587a96127282</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/bf9c1095-8e62-4687-a92f-587a96127282" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/bf9c1095-8e62-4687-a92f-587a96127282-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.17174157 7.63145834 47.20035849 7.65864252</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Aeschi (SO) (2511)</title>
+        <summary>Amtliche Vermessung der Gemeinde Aeschi (SO) (2511)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>1ef985d1-edc8-46a9-bc90-5957a3e1147c</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/1ef985d1-edc8-46a9-bc90-5957a3e1147c" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/1ef985d1-edc8-46a9-bc90-5957a3e1147c-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.15255611 7.64598963 47.18652423 7.70079899</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Hüniken (2524)</title>
+        <summary>Amtliche Vermessung der Gemeinde Hüniken (2524)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>882fcced-8f20-45f9-82eb-fa0265b51b8b</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/882fcced-8f20-45f9-82eb-fa0265b51b8b" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/882fcced-8f20-45f9-82eb-fa0265b51b8b-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.17656482 7.62688183 47.18960420 7.64273011</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Derendingen (2517)</title>
+        <summary>Amtliche Vermessung der Gemeinde Derendingen (2517)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>60c60424-6a9b-4eb2-a37a-c677dc395df9</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/60c60424-6a9b-4eb2-a37a-c677dc395df9" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/60c60424-6a9b-4eb2-a37a-c677dc395df9-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.17413968 7.57488326 47.21315236 7.60565457</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Oekingen (2529)</title>
+        <summary>Amtliche Vermessung der Gemeinde Oekingen (2529)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>82a2424a-0293-4dd1-acd7-300faa11d9db</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/82a2424a-0293-4dd1-acd7-300faa11d9db" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/82a2424a-0293-4dd1-acd7-300faa11d9db-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.16856983 7.59940574 47.19240990 7.63722019</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Drei Höfe (2535)</title>
+        <summary>Amtliche Vermessung der Gemeinde Drei Höfe (2535)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>5fecfe4f-59e4-4449-8683-33d0ba41be29</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/5fecfe4f-59e4-4449-8683-33d0ba41be29" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/5fecfe4f-59e4-4449-8683-33d0ba41be29-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.14892013 7.61542159 47.17174157 7.65355398</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Halten (2520)</title>
+        <summary>Amtliche Vermessung der Gemeinde Halten (2520)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>bcc8db2e-f9a2-4d29-9597-69a0a174e94d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/bcc8db2e-f9a2-4d29-9597-69a0a174e94d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/bcc8db2e-f9a2-4d29-9597-69a0a174e94d-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.16200674 7.59686577 47.17444661 7.62780595</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Niederbuchsiten (2405)</title>
+        <summary>Amtliche Vermessung der Gemeinde Niederbuchsiten (2405)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>676b562b-4738-4f08-ad24-1cd8ddd4fe26</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/676b562b-4738-4f08-ad24-1cd8ddd4fe26" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/676b562b-4738-4f08-ad24-1cd8ddd4fe26-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.27456984 7.75638982 47.30279464 7.79997883</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Deitingen (2516)</title>
+        <summary>Amtliche Vermessung der Gemeinde Deitingen (2516)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c8880fe5-5b4b-4912-ac63-32e28f84d795</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c8880fe5-5b4b-4912-ac63-32e28f84d795" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c8880fe5-5b4b-4912-ac63-32e28f84d795-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.20501564 7.58737317 47.22980489 7.64862399</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Obergerlafingen (2528)</title>
+        <summary>Amtliche Vermessung der Gemeinde Obergerlafingen (2528)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>ff3181a0-1639-4240-a46b-61f96330215d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/ff3181a0-1639-4240-a46b-61f96330215d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/ff3181a0-1639-4240-a46b-61f96330215d-2014-12-02T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-02T00:00:00Z</updated>
+        <georss:box>47.14754468 7.57490926 47.17397739 7.59154434</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Aedermannsdorf (2421)</title>
+        <summary>Amtliche Vermessung der Gemeinde Aedermannsdorf (2421)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>45e17fa7-7de8-4f0e-bea1-7a13b25b842d</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/45e17fa7-7de8-4f0e-bea1-7a13b25b842d" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/45e17fa7-7de8-4f0e-bea1-7a13b25b842d-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.28019673 7.54806452 47.33359327 7.61933365</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Wolfwil (2408)</title>
+        <summary>Amtliche Vermessung der Gemeinde Wolfwil (2408)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>1ebc11fa-7ffc-44b4-91fd-ccdc0eecfd40</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/1ebc11fa-7ffc-44b4-91fd-ccdc0eecfd40" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/1ebc11fa-7ffc-44b4-91fd-ccdc0eecfd40-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25609738 7.76478651 47.28248670 7.82813362</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Neuendorf (2404)</title>
+        <summary>Amtliche Vermessung der Gemeinde Neuendorf (2404)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>c47e90e4-c032-4630-b39f-7dfab1757911</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/c47e90e4-c032-4630-b39f-7dfab1757911" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/c47e90e4-c032-4630-b39f-7dfab1757911-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.27993703 7.77899569 47.31407324 7.82246121</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Kestenholz (2403)</title>
+        <summary>Amtliche Vermessung der Gemeinde Kestenholz (2403)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>624ecd64-9e55-4e22-86a1-01f50a589338</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/624ecd64-9e55-4e22-86a1-01f50a589338" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/624ecd64-9e55-4e22-86a1-01f50a589338-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25702246 7.73413564 47.29731390 7.77641260</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Holderbank (SO) (2425)</title>
+        <summary>Amtliche Vermessung der Gemeinde Holderbank (SO) (2425)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>163ac248-7e89-473b-8e9c-8094006499e5</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/163ac248-7e89-473b-8e9c-8094006499e5" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/163ac248-7e89-473b-8e9c-8094006499e5-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.31820285 7.72329327 47.34432678 7.78859203</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Matzendorf (2427)</title>
+        <summary>Amtliche Vermessung der Gemeinde Matzendorf (2427)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>bc538313-0d10-4191-89ea-22dd46d77fbb</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/bc538313-0d10-4191-89ea-22dd46d77fbb" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/bc538313-0d10-4191-89ea-22dd46d77fbb-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.28099353 7.60626936 47.33475919 7.65127288</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Oensingen (2407)</title>
+        <summary>Amtliche Vermessung der Gemeinde Oensingen (2407)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>2e23abe1-8722-4a77-9985-dc06cad1805b</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/2e23abe1-8722-4a77-9985-dc06cad1805b" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/2e23abe1-8722-4a77-9985-dc06cad1805b-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25911270 7.68476938 47.30893034 7.75222888</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Balsthal (2422)</title>
+        <summary>Amtliche Vermessung der Gemeinde Balsthal (2422)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>e37ec2ce-7524-472f-b331-ba5fd726690c</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/e37ec2ce-7524-472f-b331-ba5fd726690c" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/e37ec2ce-7524-472f-b331-ba5fd726690c-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.28901131 7.67040113 47.33697072 7.74540521</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Herbetswil (2424)</title>
+        <summary>Amtliche Vermessung der Gemeinde Herbetswil (2424)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>f0f0af18-2bc2-44df-a77a-90fb670d6515</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/f0f0af18-2bc2-44df-a77a-90fb670d6515" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/f0f0af18-2bc2-44df-a77a-90fb670d6515-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.27213088 7.51453802 47.31967580 7.60710466</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Laupersdorf (2426)</title>
+        <summary>Amtliche Vermessung der Gemeinde Laupersdorf (2426)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>9fe7386f-ce50-4d89-b777-ef19f606dd9e</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/9fe7386f-ce50-4d89-b777-ef19f606dd9e" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/9fe7386f-ce50-4d89-b777-ef19f606dd9e-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.28289450 7.62418701 47.33677709 7.67909721</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Gänsbrunnen (2423)</title>
+        <summary>Amtliche Vermessung der Gemeinde Gänsbrunnen (2423)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>0340ddad-9666-4cbc-b767-03981bcff111</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/0340ddad-9666-4cbc-b767-03981bcff111" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/0340ddad-9666-4cbc-b767-03981bcff111-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.24272783 7.41618125 47.29251388 7.51713327</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Welschenrohr (2429)</title>
+        <summary>Amtliche Vermessung der Gemeinde Welschenrohr (2429)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>8444ad61-fbb7-4681-9a47-f0943ad0af99</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/8444ad61-fbb7-4681-9a47-f0943ad0af99" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/8444ad61-fbb7-4681-9a47-f0943ad0af99-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25363358 7.48608003 47.29341686 7.55928847</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Oberbuchsiten (2406)</title>
+        <summary>Amtliche Vermessung der Gemeinde Oberbuchsiten (2406)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>2a4ff491-2c85-4cec-b4a0-fb9ad2d7be1a</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/2a4ff491-2c85-4cec-b4a0-fb9ad2d7be1a" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/2a4ff491-2c85-4cec-b4a0-fb9ad2d7be1a-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.29547020 7.72982016 47.32974069 7.78549377</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+    <entry>
+        <title>AV - Härkingen (2402)</title>
+        <summary>Amtliche Vermessung der Gemeinde Härkingen (2402)</summary>
+        <inspire_dls:spatial_dataset_identifier_code>cbb3ae88-5c59-4889-8f1c-d98bcb594d85</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/cbb3ae88-5c59-4889-8f1c-d98bcb594d85" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/cbb3ae88-5c59-4889-8f1c-d98bcb594d85-2014-11-25T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-11-25T00:00:00Z</updated>
+        <georss:box>47.28615443 7.80106533 47.32207694 7.84057026</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    
+</feed>

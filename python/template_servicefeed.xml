@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0">
+    <title>Amtliche Vermessung Kanton Solothurn</title>
+    <subtitle>Amtliche Vermessung des Kantons Solothurn. Gemeindeweise partitioniert in verschiedenen Formaten und Bezugsrahmen.</subtitle>
+    <link href="http://not.implemented.yet" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Download Service Feed Metadata" />
+    <link href="http://www.catais.org/inspire/dls/amtlichevermessung.xml" hreflang="de" rel="self" type="application/atom+xml" title="Download Service Feed" />
+    <link href="http://not.implemented.yet" hreflang="de" rel="search" type="application/opensearchdescription+xml" title="OpenSearch Description" />
+    <id>http://www.catais.org/inspire/amtlichevermessung</id>
+    <rights>Daten dürfen frei genutzt werden.</rights>
+    <updated>{{updated}}</updated>
+    <author>
+        <name>Amt für Geoinformation Kanton Solothurn</name>
+        <email>agi@bd.so.ch</email>
+    </author>
+    {%for item in items %}
+    <entry>
+        <title>{{item['title']}}</title>
+        <summary>{{item['abstract']}}</summary>
+        <inspire_dls:spatial_dataset_identifier_code>{{item['identifier']}}</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+        <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+        <link href="http://www.catais.org/inspire/dls/{{item['identifier']}}" rel="alternate" type="application/atom+xml" title="Dataset Feed" />
+        <id>http://www.catais.org/inspire/dls/{{item['identifier']}}-{{item['updated']}}</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>{{item['updated']}}</updated>
+        <georss:box>{{item['bbox']}}</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+    </entry>
+    {%endfor%}
+</feed>

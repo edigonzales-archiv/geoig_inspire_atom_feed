@@ -1,0 +1,746 @@
+2014/11/09 21:20:04 - Pan - Start of run.
+Processing has stopped because of an error: 
+Unable to read file [file:///home/stefan/Dropbox/Projekte/inspire_atom/kettle/kettle/metadb_update_av_gemeinden_timestamp.ktr]
+Could not read from "file:///home/stefan/Dropbox/Projekte/inspire_atom/kettle/kettle/metadb_update_av_gemeinden_timestamp.ktr" because it is a not a file.
+
+2014/11/09 21:20:18 - Pan - Start of run.
+Processing has stopped because of an error: 
+Unable to read file [file:///home/stefan/Dropbox/Projekte/inspire_atom/kettle/kettle/metadb_update_av_gemeinden_timestamp.ktr]
+Could not read from "file:///home/stefan/Dropbox/Projekte/inspire_atom/kettle/kettle/metadb_update_av_gemeinden_timestamp.ktr" because it is a not a file.
+
+2014/11/09 21:20:43 - Pan - Start of run.
+2014/11/09 21:20:43 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/09 21:20:44 - Table input.0 - Finished reading query, closing connection.
+2014/11/09 21:20:44 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/09 21:20:44 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/09 21:20:44 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/09 21:20:44 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:20:44 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:20:44 - Pan - Finished!
+2014/11/09 21:20:44 - Pan - Start=2014/11/09 21:20:43.852, Stop=2014/11/09 21:20:44.792
+2014/11/09 21:20:44 - Pan - Processing ended after 0 seconds.
+2014/11/09 21:20:44 - metadb_update_av_gemeinden_timestamp -  
+2014/11/09 21:20:44 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/09 21:20:44 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:20:44 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:20:44 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:22:01 - Pan - Start of run.
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/09 21:22:02 - Table input.0 - Finished reading query, closing connection.
+2014/11/09 21:22:02 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/09 21:22:02 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/09 21:22:02 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/09 21:22:02 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=1, E=0)
+2014/11/09 21:22:02 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=1, E=0)
+2014/11/09 21:22:02 - Pan - Finished!
+2014/11/09 21:22:02 - Pan - Start=2014/11/09 21:22:01.889, Stop=2014/11/09 21:22:02.927
+2014/11/09 21:22:02 - Pan - Processing ended after 1 seconds.
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp -  
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/09 21:22:02 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/09 21:27:40 - Pan - Start of run.
+2014/11/09 21:27:40 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/09 21:27:41 - Table input.0 - Finished reading query, closing connection.
+2014/11/09 21:27:41 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/09 21:27:41 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/09 21:27:41 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/09 21:27:41 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:27:41 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:27:41 - Pan - Finished!
+2014/11/09 21:27:41 - Pan - Start=2014/11/09 21:27:40.796, Stop=2014/11/09 21:27:41.751
+2014/11/09 21:27:41 - Pan - Processing ended after 0 seconds.
+2014/11/09 21:27:41 - metadb_update_av_gemeinden_timestamp -  
+2014/11/09 21:27:41 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/09 21:27:41 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:27:41 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:27:41 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:29:26 - Pan - Start of run.
+2014/11/09 21:29:26 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/09 21:29:26 - Table input.0 - Finished reading query, closing connection.
+2014/11/09 21:29:26 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/09 21:29:26 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/09 21:29:27 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/09 21:29:27 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:29:27 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/09 21:29:27 - Pan - Finished!
+2014/11/09 21:29:27 - Pan - Start=2014/11/09 21:29:26.386, Stop=2014/11/09 21:29:27.318
+2014/11/09 21:29:27 - Pan - Processing ended after 0 seconds.
+2014/11/09 21:29:27 - metadb_update_av_gemeinden_timestamp -  
+2014/11/09 21:29:27 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/09 21:29:27 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:29:27 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/09 21:29:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 05:00:09 - Pan - Start of run.
+2014/11/10 05:00:10 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 05:00:11 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 05:00:11 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 05:00:11 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 05:00:11 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 05:00:12 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=15, E=0)
+2014/11/10 05:00:12 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=15, E=0)
+2014/11/10 05:00:12 - Pan - Finished!
+2014/11/10 05:00:12 - Pan - Start=2014/11/10 05:00:09.190, Stop=2014/11/10 05:00:12.671
+2014/11/10 05:00:12 - Pan - Processing ended after 3 seconds.
+2014/11/10 05:00:12 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 72 lines/s)
+2014/11/10 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/10 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/10 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/10 08:00:08 - Pan - Start of run.
+2014/11/10 08:00:08 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:00:10 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:00:10 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:00:10 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:00:10 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:00:11 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:00:11 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:00:11 - Pan - Finished!
+2014/11/10 08:00:11 - Pan - Start=2014/11/10 08:00:08.171, Stop=2014/11/10 08:00:11.122
+2014/11/10 08:00:11 - Pan - Processing ended after 2 seconds.
+2014/11/10 08:00:11 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:00:11 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 109 lines/s)
+2014/11/10 08:00:11 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/10 08:00:11 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/10 08:00:11 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/10 08:05:04 - Pan - Start of run.
+2014/11/10 08:05:04 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:05:04 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:05:04 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:05:04 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:05:05 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:05:05 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:05:05 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:05:05 - Pan - Finished!
+2014/11/10 08:05:05 - Pan - Start=2014/11/10 08:05:04.012, Stop=2014/11/10 08:05:05.398
+2014/11/10 08:05:05 - Pan - Processing ended after 1 seconds.
+2014/11/10 08:05:05 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:05:05 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/10 08:05:05 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:05:05 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:05:05 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:10:02 - Pan - Start of run.
+2014/11/10 08:10:02 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:10:02 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:10:02 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:10:02 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:10:03 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:10:03 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:10:03 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:10:03 - Pan - Finished!
+2014/11/10 08:10:03 - Pan - Start=2014/11/10 08:10:02.454, Stop=2014/11/10 08:10:03.395
+2014/11/10 08:10:03 - Pan - Processing ended after 0 seconds.
+2014/11/10 08:10:03 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:10:03 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 08:10:03 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:10:03 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:10:03 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:15:02 - Pan - Start of run.
+2014/11/10 08:15:02 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:15:03 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:15:03 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:15:03 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:15:03 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:15:03 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:15:03 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:15:03 - Pan - Finished!
+2014/11/10 08:15:03 - Pan - Start=2014/11/10 08:15:02.734, Stop=2014/11/10 08:15:03.639
+2014/11/10 08:15:03 - Pan - Processing ended after 0 seconds.
+2014/11/10 08:15:03 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:15:03 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 08:15:03 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:15:03 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:15:03 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:20:03 - Pan - Start of run.
+2014/11/10 08:20:03 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:20:03 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:20:03 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:20:03 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:20:04 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:20:04 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:20:04 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:20:04 - Pan - Finished!
+2014/11/10 08:20:04 - Pan - Start=2014/11/10 08:20:03.417, Stop=2014/11/10 08:20:04.268
+2014/11/10 08:20:04 - Pan - Processing ended after 0 seconds.
+2014/11/10 08:20:04 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:20:04 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 08:20:04 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:20:04 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:20:04 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:25:02 - Pan - Start of run.
+2014/11/10 08:25:02 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:25:03 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:25:03 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:25:03 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:25:03 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:25:03 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:25:03 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:25:03 - Pan - Finished!
+2014/11/10 08:25:03 - Pan - Start=2014/11/10 08:25:02.479, Stop=2014/11/10 08:25:03.679
+2014/11/10 08:25:03 - Pan - Processing ended after 1 seconds.
+2014/11/10 08:25:03 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:25:03 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/10 08:25:03 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:25:03 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:25:03 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 08:30:03 - Pan - Start of run.
+2014/11/10 08:30:03 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:30:03 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:30:03 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:30:03 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:30:03 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:30:04 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:30:04 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:30:04 - Pan - Finished!
+2014/11/10 08:30:04 - Pan - Start=2014/11/10 08:30:03.185, Stop=2014/11/10 08:30:04.128
+2014/11/10 08:30:04 - Pan - Processing ended after 0 seconds.
+2014/11/10 08:30:04 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:30:04 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 08:30:04 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:30:04 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:30:04 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:35:02 - Pan - Start of run.
+2014/11/10 08:35:02 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 08:35:03 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 08:35:03 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 08:35:03 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 08:35:03 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 08:35:03 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:35:03 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 08:35:03 - Pan - Finished!
+2014/11/10 08:35:03 - Pan - Start=2014/11/10 08:35:02.503, Stop=2014/11/10 08:35:03.368
+2014/11/10 08:35:03 - Pan - Processing ended after 0 seconds.
+2014/11/10 08:35:03 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 08:35:03 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 08:35:03 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:35:03 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 08:35:03 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 10:47:23 - Pan - Start of run.
+2014/11/10 10:47:23 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 10:47:24 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 10:47:24 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 10:47:24 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 10:47:24 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 10:47:24 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 10:47:24 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 10:47:24 - Pan - Finished!
+2014/11/10 10:47:24 - Pan - Start=2014/11/10 10:47:23.616, Stop=2014/11/10 10:47:24.700
+2014/11/10 10:47:24 - Pan - Processing ended after 1 seconds.
+2014/11/10 10:47:24 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 10:47:24 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/10 10:47:24 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 10:47:24 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 10:47:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 10:49:37 - Pan - Start of run.
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 10:49:38 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 10:49:38 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 10:49:38 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 10:49:38 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 10:49:38 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 10:49:38 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 10:49:38 - Pan - Finished!
+2014/11/10 10:49:38 - Pan - Start=2014/11/10 10:49:37.983, Stop=2014/11/10 10:49:38.993
+2014/11/10 10:49:38 - Pan - Processing ended after 1 seconds.
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 10:49:38 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 18:43:00 - Pan - Start of run.
+2014/11/10 18:43:00 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 18:43:01 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 18:43:01 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 18:43:01 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 18:43:01 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 18:43:01 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 18:43:01 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 18:43:01 - Pan - Finished!
+2014/11/10 18:43:01 - Pan - Start=2014/11/10 18:43:00.858, Stop=2014/11/10 18:43:01.835
+2014/11/10 18:43:01 - Pan - Processing ended after 0 seconds.
+2014/11/10 18:43:01 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 18:43:01 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( - lines/s)
+2014/11/10 18:43:01 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 18:43:01 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 18:43:01 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( - lines/s)
+2014/11/10 19:00:18 - Pan - Start of run.
+2014/11/10 19:00:18 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/10 19:00:18 - Table input.0 - Finished reading query, closing connection.
+2014/11/10 19:00:18 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/10 19:00:18 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/10 19:00:19 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/10 19:00:19 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 19:00:19 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/10 19:00:19 - Pan - Finished!
+2014/11/10 19:00:19 - Pan - Start=2014/11/10 19:00:18.402, Stop=2014/11/10 19:00:19.467
+2014/11/10 19:00:19 - Pan - Processing ended after 1 seconds.
+2014/11/10 19:00:19 - metadb_update_av_gemeinden_timestamp -  
+2014/11/10 19:00:19 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 218 lines/s)
+2014/11/10 19:00:19 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 19:00:19 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/10 19:00:19 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 109 lines/s)
+2014/11/11 05:00:15 - Pan - Start of run.
+2014/11/11 05:00:15 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/11 05:00:17 - Table input.0 - Finished reading query, closing connection.
+2014/11/11 05:00:17 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/11 05:00:17 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/11 05:00:17 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/11 05:00:18 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=20, E=0)
+2014/11/11 05:00:18 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=20, E=0)
+2014/11/11 05:00:18 - Pan - Finished!
+2014/11/11 05:00:18 - Pan - Start=2014/11/11 05:00:15.140, Stop=2014/11/11 05:00:18.953
+2014/11/11 05:00:18 - Pan - Processing ended after 3 seconds.
+2014/11/11 05:00:18 - metadb_update_av_gemeinden_timestamp -  
+2014/11/11 05:00:18 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 72 lines/s)
+2014/11/11 05:00:18 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/11 05:00:18 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/11 05:00:18 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/12 05:00:22 - Pan - Start of run.
+2014/11/12 05:00:24 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/12 05:00:26 - Table input.0 - Finished reading query, closing connection.
+2014/11/12 05:00:26 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/12 05:00:27 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/12 05:00:28 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=218, U=0, E=0)
+2014/11/12 05:00:28 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=3, E=0)
+2014/11/12 05:00:28 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=3, E=0)
+2014/11/12 05:00:28 - Pan - Finished!
+2014/11/12 05:00:28 - Pan - Start=2014/11/12 05:00:22.765, Stop=2014/11/12 05:00:28.753
+2014/11/12 05:00:28 - Pan - Processing ended after 5 seconds.
+2014/11/12 05:00:28 - metadb_update_av_gemeinden_timestamp -  
+2014/11/12 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 218 lines. ( 43 lines/s)
+2014/11/12 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/12 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/12 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/14 05:00:18 - Pan - Start of run.
+2014/11/14 05:00:19 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/14 05:00:22 - Table input.0 - Finished reading query, closing connection.
+2014/11/14 05:00:22 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/14 05:00:22 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/14 05:00:23 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/14 05:00:24 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=50, E=0)
+2014/11/14 05:00:24 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=50, E=0)
+2014/11/14 05:00:24 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=50, E=0)
+2014/11/14 05:00:24 - Pan - Finished!
+2014/11/14 05:00:24 - Pan - Start=2014/11/14 05:00:18.463, Stop=2014/11/14 05:00:24.464
+2014/11/14 05:00:24 - Pan - Processing ended after 6 seconds.
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp -  
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 54 lines/s)
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/14 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/15 05:00:18 - Pan - Start of run.
+2014/11/15 05:00:19 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/15 05:00:22 - Table input.0 - Finished reading query, closing connection.
+2014/11/15 05:00:22 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/15 05:00:22 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/15 05:00:23 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/15 05:00:23 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/15 05:00:23 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/15 05:00:23 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/15 05:00:23 - Pan - Finished!
+2014/11/15 05:00:23 - Pan - Start=2014/11/15 05:00:18.611, Stop=2014/11/15 05:00:23.767
+2014/11/15 05:00:23 - Pan - Processing ended after 5 seconds.
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp -  
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/15 05:00:23 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/16 05:00:14 - Pan - Start of run.
+2014/11/16 05:00:14 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/16 05:00:16 - Table input.0 - Finished reading query, closing connection.
+2014/11/16 05:00:16 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/16 05:00:16 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/16 05:00:17 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/16 05:00:17 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/16 05:00:17 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/16 05:00:17 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/16 05:00:17 - Pan - Finished!
+2014/11/16 05:00:17 - Pan - Start=2014/11/16 05:00:14.200, Stop=2014/11/16 05:00:17.915
+2014/11/16 05:00:17 - Pan - Processing ended after 3 seconds.
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp -  
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 109 lines/s)
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/16 05:00:17 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 36 lines/s)
+2014/11/17 05:00:22 - Pan - Start of run.
+2014/11/17 05:00:23 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/17 05:00:25 - Table input.0 - Finished reading query, closing connection.
+2014/11/17 05:00:25 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/17 05:00:26 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/17 05:00:26 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/17 05:00:27 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=12, E=0)
+2014/11/17 05:00:27 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=12, E=0)
+2014/11/17 05:00:27 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=12, E=0)
+2014/11/17 05:00:27 - Pan - Finished!
+2014/11/17 05:00:27 - Pan - Start=2014/11/17 05:00:22.200, Stop=2014/11/17 05:00:27.465
+2014/11/17 05:00:27 - Pan - Processing ended after 5 seconds.
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp -  
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/17 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/18 05:00:18 - Pan - Start of run.
+2014/11/18 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/18 05:00:23 - Table input.0 - Finished reading query, closing connection.
+2014/11/18 05:00:23 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/18 05:00:23 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/18 05:00:24 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/18 05:00:24 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=24, E=0)
+2014/11/18 05:00:24 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=24, E=0)
+2014/11/18 05:00:24 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=24, E=0)
+2014/11/18 05:00:24 - Pan - Finished!
+2014/11/18 05:00:24 - Pan - Start=2014/11/18 05:00:19.085, Stop=2014/11/18 05:00:24.890
+2014/11/18 05:00:24 - Pan - Processing ended after 5 seconds.
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp -  
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/18 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/19 05:00:22 - Pan - Start of run.
+2014/11/19 05:00:24 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/19 05:00:26 - Table input.0 - Finished reading query, closing connection.
+2014/11/19 05:00:26 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/19 05:00:26 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/19 05:00:27 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/19 05:00:27 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/19 05:00:27 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/19 05:00:27 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/19 05:00:27 - Pan - Finished!
+2014/11/19 05:00:27 - Pan - Start=2014/11/19 05:00:22.951, Stop=2014/11/19 05:00:27.687
+2014/11/19 05:00:27 - Pan - Processing ended after 4 seconds.
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp -  
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 81 lines/s)
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/19 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/20 05:00:20 - Pan - Start of run.
+2014/11/20 05:00:21 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/20 05:00:29 - Table input.0 - Finished reading query, closing connection.
+2014/11/20 05:00:29 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/20 05:00:30 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/20 05:00:30 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/20 05:00:31 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=43, E=0)
+2014/11/20 05:00:31 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=43, E=0)
+2014/11/20 05:00:31 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=43, E=0)
+2014/11/20 05:00:31 - Pan - Finished!
+2014/11/20 05:00:31 - Pan - Start=2014/11/20 05:00:20.147, Stop=2014/11/20 05:00:31.175
+2014/11/20 05:00:31 - Pan - Processing ended after 11 seconds.
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp -  
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 29 lines/s)
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 9 lines/s)
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 9 lines/s)
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 9 lines/s)
+2014/11/20 05:00:31 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 9 lines/s)
+2014/11/21 05:00:19 - Pan - Start of run.
+2014/11/21 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/21 05:00:24 - Table input.0 - Finished reading query, closing connection.
+2014/11/21 05:00:24 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/21 05:00:24 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/21 05:00:25 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/21 05:00:26 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=31, E=0)
+2014/11/21 05:00:26 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=31, E=0)
+2014/11/21 05:00:26 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=31, E=0)
+2014/11/21 05:00:26 - Pan - Finished!
+2014/11/21 05:00:26 - Pan - Start=2014/11/21 05:00:19.198, Stop=2014/11/21 05:00:26.426
+2014/11/21 05:00:26 - Pan - Processing ended after 7 seconds.
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp -  
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 46 lines/s)
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/21 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/22 05:00:21 - Pan - Start of run.
+2014/11/22 05:00:22 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/22 05:00:25 - Table input.0 - Finished reading query, closing connection.
+2014/11/22 05:00:25 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/22 05:00:26 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/22 05:00:26 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/22 05:00:27 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=10, E=0)
+2014/11/22 05:00:27 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=10, E=0)
+2014/11/22 05:00:27 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=10, E=0)
+2014/11/22 05:00:27 - Pan - Finished!
+2014/11/22 05:00:27 - Pan - Start=2014/11/22 05:00:21.893, Stop=2014/11/22 05:00:27.581
+2014/11/22 05:00:27 - Pan - Processing ended after 5 seconds.
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp -  
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/22 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/23 05:00:24 - Pan - Start of run.
+2014/11/23 05:00:25 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/23 05:00:28 - Table input.0 - Finished reading query, closing connection.
+2014/11/23 05:00:28 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/23 05:00:28 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/23 05:00:29 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/23 05:00:29 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/23 05:00:29 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/23 05:00:29 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/23 05:00:29 - Pan - Finished!
+2014/11/23 05:00:29 - Pan - Start=2014/11/23 05:00:24.136, Stop=2014/11/23 05:00:29.988
+2014/11/23 05:00:29 - Pan - Processing ended after 5 seconds.
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp -  
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/23 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/24 05:00:19 - Pan - Start of run.
+2014/11/24 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/24 05:00:24 - Table input.0 - Finished reading query, closing connection.
+2014/11/24 05:00:25 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/24 05:00:25 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/24 05:00:25 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/24 05:00:26 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=19, E=0)
+2014/11/24 05:00:26 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=19, E=0)
+2014/11/24 05:00:26 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=19, E=0)
+2014/11/24 05:00:26 - Pan - Finished!
+2014/11/24 05:00:26 - Pan - Start=2014/11/24 05:00:19.307, Stop=2014/11/24 05:00:26.728
+2014/11/24 05:00:26 - Pan - Processing ended after 7 seconds.
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp -  
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 46 lines/s)
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/24 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/25 05:00:21 - Pan - Start of run.
+2014/11/25 05:00:23 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/25 05:00:26 - Table input.0 - Finished reading query, closing connection.
+2014/11/25 05:00:26 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/25 05:00:26 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/25 05:00:27 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/25 05:00:28 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=8, E=0)
+2014/11/25 05:00:28 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=8, E=0)
+2014/11/25 05:00:28 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=8, E=0)
+2014/11/25 05:00:28 - Pan - Finished!
+2014/11/25 05:00:28 - Pan - Start=2014/11/25 05:00:21.874, Stop=2014/11/25 05:00:28.447
+2014/11/25 05:00:28 - Pan - Processing ended after 6 seconds.
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp -  
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 54 lines/s)
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/25 05:00:28 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/11/26 05:00:08 - Pan - Start of run.
+2014/11/26 05:00:08 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/26 05:00:09 - Table input.0 - Finished reading query, closing connection.
+2014/11/26 05:00:10 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/26 05:00:10 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/26 05:00:10 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/26 05:00:10 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=3, E=0)
+2014/11/26 05:00:10 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=3, E=0)
+2014/11/26 05:00:10 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=3, E=0)
+2014/11/26 05:00:10 - Pan - Finished!
+2014/11/26 05:00:10 - Pan - Start=2014/11/26 05:00:08.475, Stop=2014/11/26 05:00:10.964
+2014/11/26 05:00:10 - Pan - Processing ended after 2 seconds.
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp -  
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 163 lines/s)
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/26 05:00:10 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 54 lines/s)
+2014/11/27 05:00:08 - Pan - Start of run.
+2014/11/27 05:00:09 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/27 05:00:11 - Table input.0 - Finished reading query, closing connection.
+2014/11/27 05:00:11 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/27 05:00:11 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/27 05:00:12 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/27 05:00:12 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=62, E=0)
+2014/11/27 05:00:12 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=62, E=0)
+2014/11/27 05:00:12 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=62, E=0)
+2014/11/27 05:00:12 - Pan - Finished!
+2014/11/27 05:00:12 - Pan - Start=2014/11/27 05:00:08.487, Stop=2014/11/27 05:00:12.926
+2014/11/27 05:00:12 - Pan - Processing ended after 4 seconds.
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp -  
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 81 lines/s)
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/27 05:00:12 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/11/28 05:00:20 - Pan - Start of run.
+2014/11/28 05:00:21 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/28 05:00:27 - Table input.0 - Finished reading query, closing connection.
+2014/11/28 05:00:27 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/28 05:00:27 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/28 05:00:28 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/28 05:00:29 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=27, E=0)
+2014/11/28 05:00:29 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=27, E=0)
+2014/11/28 05:00:29 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=27, E=0)
+2014/11/28 05:00:29 - Pan - Finished!
+2014/11/28 05:00:29 - Pan - Start=2014/11/28 05:00:20.943, Stop=2014/11/28 05:00:29.256
+2014/11/28 05:00:29 - Pan - Processing ended after 8 seconds.
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp -  
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 40 lines/s)
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 13 lines/s)
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 13 lines/s)
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 13 lines/s)
+2014/11/28 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 13 lines/s)
+2014/11/29 05:00:21 - Pan - Start of run.
+2014/11/29 05:00:22 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/29 05:00:25 - Table input.0 - Finished reading query, closing connection.
+2014/11/29 05:00:25 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/29 05:00:25 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/29 05:00:26 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/29 05:00:27 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/29 05:00:27 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/29 05:00:27 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=6, E=0)
+2014/11/29 05:00:27 - Pan - Finished!
+2014/11/29 05:00:27 - Pan - Start=2014/11/29 05:00:21.683, Stop=2014/11/29 05:00:27.329
+2014/11/29 05:00:27 - Pan - Processing ended after 5 seconds.
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp -  
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/29 05:00:27 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/11/30 05:00:21 - Pan - Start of run.
+2014/11/30 05:00:22 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/11/30 05:00:27 - Table input.0 - Finished reading query, closing connection.
+2014/11/30 05:00:28 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/11/30 05:00:28 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/11/30 05:00:28 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/11/30 05:00:29 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/30 05:00:29 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/30 05:00:29 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/11/30 05:00:29 - Pan - Finished!
+2014/11/30 05:00:29 - Pan - Start=2014/11/30 05:00:21.755, Stop=2014/11/30 05:00:29.701
+2014/11/30 05:00:29 - Pan - Processing ended after 7 seconds.
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp -  
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 46 lines/s)
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/11/30 05:00:29 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 15 lines/s)
+2014/12/01 05:00:20 - Pan - Start of run.
+2014/12/01 05:00:21 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/01 05:00:24 - Table input.0 - Finished reading query, closing connection.
+2014/12/01 05:00:24 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/01 05:00:25 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/01 05:00:25 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/01 05:00:26 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=13, E=0)
+2014/12/01 05:00:26 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=13, E=0)
+2014/12/01 05:00:26 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=13, E=0)
+2014/12/01 05:00:26 - Pan - Finished!
+2014/12/01 05:00:26 - Pan - Start=2014/12/01 05:00:20.852, Stop=2014/12/01 05:00:26.847
+2014/12/01 05:00:26 - Pan - Processing ended after 5 seconds.
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp -  
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/01 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/02 05:00:28 - Pan - Start of run.
+2014/12/02 05:00:30 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/02 05:00:37 - Table input.0 - Finished reading query, closing connection.
+2014/12/02 05:00:37 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/02 05:00:37 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/02 05:00:38 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/02 05:00:39 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=23, E=0)
+2014/12/02 05:00:39 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=23, E=0)
+2014/12/02 05:00:39 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=23, E=0)
+2014/12/02 05:00:39 - Pan - Finished!
+2014/12/02 05:00:39 - Pan - Start=2014/12/02 05:00:28.893, Stop=2014/12/02 05:00:39.330
+2014/12/02 05:00:39 - Pan - Processing ended after 10 seconds.
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp -  
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 32 lines/s)
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 10 lines/s)
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 10 lines/s)
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 10 lines/s)
+2014/12/02 05:00:39 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 10 lines/s)
+2014/12/03 05:00:21 - Pan - Start of run.
+2014/12/03 05:00:23 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/03 05:00:25 - Table input.0 - Finished reading query, closing connection.
+2014/12/03 05:00:25 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/03 05:00:25 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/03 05:00:26 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/03 05:00:26 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/03 05:00:26 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/03 05:00:26 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/03 05:00:26 - Pan - Finished!
+2014/12/03 05:00:26 - Pan - Start=2014/12/03 05:00:21.865, Stop=2014/12/03 05:00:26.611
+2014/12/03 05:00:26 - Pan - Processing ended after 4 seconds.
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp -  
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 81 lines/s)
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/03 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/04 05:00:19 - Pan - Start of run.
+2014/12/04 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/04 05:00:24 - Table input.0 - Finished reading query, closing connection.
+2014/12/04 05:00:24 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/04 05:00:24 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/04 05:00:25 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/04 05:00:25 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=25, E=0)
+2014/12/04 05:00:26 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=25, E=0)
+2014/12/04 05:00:26 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=25, E=0)
+2014/12/04 05:00:26 - Pan - Finished!
+2014/12/04 05:00:26 - Pan - Start=2014/12/04 05:00:19.741, Stop=2014/12/04 05:00:26.196
+2014/12/04 05:00:26 - Pan - Processing ended after 6 seconds.
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp -  
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 54 lines/s)
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/12/04 05:00:26 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 18 lines/s)
+2014/12/05 05:00:19 - Pan - Start of run.
+2014/12/05 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/05 05:00:23 - Table input.0 - Finished reading query, closing connection.
+2014/12/05 05:00:23 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/05 05:00:24 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/05 05:00:24 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/05 05:00:25 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=51, E=0)
+2014/12/05 05:00:25 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=51, E=0)
+2014/12/05 05:00:25 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=51, E=0)
+2014/12/05 05:00:25 - Pan - Finished!
+2014/12/05 05:00:25 - Pan - Start=2014/12/05 05:00:19.800, Stop=2014/12/05 05:00:25.719
+2014/12/05 05:00:25 - Pan - Processing ended after 5 seconds.
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp -  
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/05 05:00:25 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/06 05:00:18 - Pan - Start of run.
+2014/12/06 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/06 05:00:22 - Table input.0 - Finished reading query, closing connection.
+2014/12/06 05:00:22 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/06 05:00:22 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/06 05:00:23 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/06 05:00:24 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=16, E=0)
+2014/12/06 05:00:24 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=16, E=0)
+2014/12/06 05:00:24 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=16, E=0)
+2014/12/06 05:00:24 - Pan - Finished!
+2014/12/06 05:00:24 - Pan - Start=2014/12/06 05:00:18.998, Stop=2014/12/06 05:00:24.199
+2014/12/06 05:00:24 - Pan - Processing ended after 5 seconds.
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp -  
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 65 lines/s)
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/06 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 21 lines/s)
+2014/12/07 05:00:19 - Pan - Start of run.
+2014/12/07 05:00:20 - metadb_update_av_gemeinden_timestamp - Dispatching started for transformation [metadb_update_av_gemeinden_timestamp]
+2014/12/07 05:00:23 - Table input.0 - Finished reading query, closing connection.
+2014/12/07 05:00:23 - Table input.0 - Finished processing (I=109, O=0, R=0, W=109, U=0, E=0)
+2014/12/07 05:00:23 - Modified Java Script Value.0 - Optimization level set to 9.
+2014/12/07 05:00:24 - Modified Java Script Value.0 - Finished processing (I=0, O=0, R=109, W=327, U=0, E=0)
+2014/12/07 05:00:24 - Update timestamp in onlineresource (shp mopublic lv03).0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/07 05:00:24 - Update timestamp in onlineresource.0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/07 05:00:24 - Update timestmap in metadb (main) .0 - Finished processing (I=109, O=0, R=109, W=109, U=0, E=0)
+2014/12/07 05:00:24 - Pan - Finished!
+2014/12/07 05:00:24 - Pan - Start=2014/12/07 05:00:19.884, Stop=2014/12/07 05:00:24.788
+2014/12/07 05:00:24 - Pan - Processing ended after 4 seconds.
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp -  
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Modified Java Script Value.0 ended successfully, processed 327 lines. ( 81 lines/s)
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestmap in metadb (main) .0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Table input.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource.0 ended successfully, processed 109 lines. ( 27 lines/s)
+2014/12/07 05:00:24 - metadb_update_av_gemeinden_timestamp - Step Update timestamp in onlineresource (shp mopublic lv03).0 ended successfully, processed 109 lines. ( 27 lines/s)

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+CAUTION: Do not modify this file unless you know what you are doing.
+         Unexpected results may occur if the code is changed deliberately.
+-->
+<dbmodel pgmodeler-ver="0.7.2" last-position="0,0" last-zoom="1">
+<role name="stefan"
+      createdb="true"
+      createrole="true"
+      login="true">
+</role>
+
+<role name="mspublic"
+      login="true">
+</role>
+
+<database name="rosebud2">
+	<role name="stefan"/>
+</database>
+
+<schema name="public" protected="true" fill-color="#e1e1e1" sql-disabled="true">
+</schema>
+
+<schema name="metadb_ng" fill-color="#e1e1e1">
+	<role name="stefan"/>
+</schema>
+
+<table name="metadb">
+	<schema name="metadb_ng"/>
+	<role name="stefan"/>
+	<position x="23" y="24"/>
+	<column name="ogc_fid">
+		<type name="serial"/>
+	</column>
+	<column name="identifier" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="title" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="abstract">
+		<type name="character varying"/>
+	</column>
+	<column name="type" not-null="true">
+		<type name="integer"/>
+	</column>
+	<column name="modified">
+		<type name="timestamp"/>
+	</column>
+	<column name="x_min">
+		<type name="double precision"/>
+	</column>
+	<column name="y_min">
+		<type name="double precision"/>
+	</column>
+	<column name="x_max">
+		<type name="double precision"/>
+	</column>
+	<column name="y_max">
+		<type name="double precision"/>
+	</column>
+	<column name="the_geom">
+		<type name="geometry" spatial-type="POLYGON" variation="0" srid="4326"/>
+	</column>
+	<constraint name="metadb_ng_metadb_pkey" type="pk-constr" factor="100" table="metadb_ng.metadb">
+		<columns names="ogc_fid" ref-type="src-columns"/>
+	</constraint>
+	<constraint name="unique_identifier" type="uq-constr" factor="100" table="metadb_ng.metadb">
+		<columns names="identifier" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<table name="type">
+	<schema name="metadb_ng"/>
+	<role name="stefan"/>
+	<position x="530" y="36"/>
+	<column name="ogc_fid">
+		<type name="serial"/>
+	</column>
+	<column name="code" not-null="true">
+		<type name="integer"/>
+	</column>
+	<column name="code_txt" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<constraint name="metadb_ng_type_pkey" type="pk-constr" factor="100" table="metadb_ng.type">
+		<columns names="ogc_fid" ref-type="src-columns"/>
+	</constraint>
+	<constraint name="unique_code" type="uq-constr" factor="100" table="metadb_ng.type">
+		<columns names="code" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<table name="metadb_relation">
+	<schema name="metadb_ng"/>
+	<role name="stefan"/>
+	<position x="28" y="391"/>
+	<column name="ogc_fid">
+		<type name="serial"/>
+	</column>
+	<column name="metadb_id_parent" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="metadb_id_child" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<constraint name="metadb_ng_metadb_relation_pkey" type="pk-constr" factor="100" table="metadb_ng.metadb_relation">
+		<columns names="ogc_fid" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<table name="online_dataset">
+	<schema name="metadb_ng"/>
+	<role name="stefan"/>
+	<position x="527" y="305"/>
+	<column name="ogc_fid">
+		<type name="serial"/>
+	</column>
+	<column name="metadb_id" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="uri" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="format_mime" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="format_txt" not-null="true">
+		<type name="character varying"/>
+	</column>
+	<column name="modified" not-null="true">
+		<type name="timestamp"/>
+	</column>
+	<column name="srs_epsg" not-null="true">
+		<type name="integer"/>
+	</column>
+	<column name="srs_txt">
+		<type name="character varying"/>
+	</column>
+	<constraint name="metadb_ng_online_dataset_pkey" type="pk-constr" factor="100" table="metadb_ng.online_dataset">
+		<columns names="ogc_fid" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<constraint name="metadb_type_fkey" type="fk-constr" comparison-type="MATCH FULL"
+	 upd-action="NO ACTION" del-action="NO ACTION" ref-table="metadb_ng.type" table="metadb_ng.metadb">
+	<columns names="type" ref-type="src-columns"/>
+	<columns names="code" ref-type="dst-columns"/>
+</constraint>
+<constraint name="metadb_relation_parent_metadb_id_fkey" type="fk-constr" comparison-type="MATCH FULL"
+	 upd-action="NO ACTION" del-action="NO ACTION" ref-table="metadb_ng.metadb" table="metadb_ng.metadb_relation">
+	<columns names="metadb_id_parent" ref-type="src-columns"/>
+	<columns names="identifier" ref-type="dst-columns"/>
+</constraint>
+<constraint name="metadb_relation_child_metadb_id_fkey" type="fk-constr" comparison-type="MATCH FULL"
+	 upd-action="NO ACTION" del-action="NO ACTION" ref-table="metadb_ng.metadb" table="metadb_ng.metadb_relation">
+	<columns names="metadb_id_child" ref-type="src-columns"/>
+	<columns names="identifier" ref-type="dst-columns"/>
+</constraint>
+<constraint name="online_dataset_metadb_identifier_fkey" type="fk-constr" comparison-type="MATCH FULL"
+	 upd-action="NO ACTION" del-action="NO ACTION" ref-table="metadb_ng.metadb" table="metadb_ng.online_dataset">
+	<columns names="metadb_id" ref-type="src-columns"/>
+	<columns names="identifier" ref-type="dst-columns"/>
+</constraint>
+<relationship name="rel_metadb_type" type="relfk"
+	 src-table="metadb_ng.metadb"
+	 dst-table="metadb_ng.type"
+	 src-required="true" dst-required="true"/>
+
+<relationship name="rel_metadb_relation_metadb" type="relfk"
+	 src-table="metadb_ng.metadb_relation"
+	 dst-table="metadb_ng.metadb"
+	 src-required="true" dst-required="true">
+	<label ref-type="name-label">
+		<position x="0" y="0"/>
+	</label>
+</relationship>
+
+<relationship name="rel_onlineresource_metadb" type="relfk"
+	 src-table="metadb_ng.online_dataset"
+	 dst-table="metadb_ng.metadb"
+	 src-required="true" dst-required="true"/>
+
+<permission>
+	<object name="metadb_ng" type="schema"/>
+	<roles names="mspublic"/>
+	<privileges usage="true"/>
+</permission>
+<permission>
+	<object name="metadb_ng.metadb" type="table"/>
+	<roles names="mspublic"/>
+	<privileges select="true"/>
+</permission>
+<permission>
+	<object name="metadb_ng.type" type="table"/>
+	<roles names="mspublic"/>
+	<privileges select="true"/>
+</permission>
+<permission>
+	<object name="metadb_ng.metadb_relation" type="table"/>
+	<roles names="mspublic"/>
+	<privileges select="true"/>
+</permission>
+<permission>
+	<object name="metadb_ng.online_dataset" type="table"/>
+	<roles names="mspublic"/>
+	<privileges select="true"/>
+</permission>
+</dbmodel>

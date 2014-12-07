@@ -1,0 +1,9 @@
+http://www.pgmodeler.com.br/wiki/doku.php?id=installation&s%5B%5D=run&s%5B%5D=pgmodeler
+
+
+sudo apt-get install qtbase5-dev qttools5-dev-tools qttools5-dev (beide tools?)
+
+
+$ qmake pgmodeler.pro
+ $ make
+ $ make install

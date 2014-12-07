@@ -1,0 +1,663 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0056)http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta name="generator" content="MediaWiki 1.16.5">
+<link rel="shortcut icon" href="http://wiki.osgeo.org/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wiki.osgeo.org/opensearch_desc.php" title="OSGeo Wiki (en)">
+<link title="Creative Commons" type="application/rdf+xml" href="http://wiki.osgeo.org/index.php?title=Geodata_Metadata_Requirements&action=creativecommons" rel="meta">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/2.5/legalcode">
+<link rel="alternate" type="application/atom+xml" title="OSGeo Wiki Atom feed" href="http://wiki.osgeo.org/index.php?title=Special:RecentChanges&feed=atom">		<title>Geodata Metadata Requirements - OSGeo Wiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/skins/common/shared.css?270";
+			@import "/skins/monobook/main.css?270";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="./Geodata Metadata Requirements - OSGeo Wiki_files/commonPrint.css">
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/skins/monobook/IE50Fixes.css?270";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/skins/monobook/IE55Fixes.css?270";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/skins/monobook/IE60Fixes.css?270";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/skins/monobook/IE70Fixes.css?270";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins/common/IEFixes.js?270"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script>
+var skin="monobook",
+stylepath="/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="",
+wgScriptExtension=".php",
+wgScript="/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://wiki.osgeo.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Geodata_Metadata_Requirements",
+wgTitle="Geodata Metadata Requirements",
+wgAction="view",
+wgArticleId=1488,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=39621,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "OSGeo Wiki", "5": "OSGeo Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "102": "Property", "103": "Property talk", "104": "Type", "105": "Type talk", "106": "Form", "107": "Form talk", "108": "Concept", "109": "Concept talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "osgeo_wiki": 4, "osgeo_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "property": 102, "property_talk": 103, "type": 104, "type_talk": 105, "form": 106, "form_talk": 107, "concept": 108, "concept_talk": 109, "image": 6, "image_talk": 7, "layer": 420, "layer talk": 421},
+wgSiteName="OSGeo Wiki",
+wgCategories=["Public Geospatial Data Committee", "Standards"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+sfgRemoveText="Remove",
+sfgAdderButtons=[],
+sfgRemoverButtons=[],
+autocompleteOnAllChars=false,
+sfgAutocompleteMappings=[],
+sfgAutocompleteValues=[],
+sfgAutocompleteDataTypes=[],
+sfgComboBoxInputs=[],
+sfgAutogrowInputs=[],
+sfgFormErrorsHeader="There were errors with your form input; see below",
+sfgBlankErrorStr="cannot be blank",
+sfgBadURLErrorStr="must have the correct URL format, starting with \\\'http\\\'",
+sfgBadEmailErrorStr="must have a valid email address format",
+sfgBadNumberErrorStr="must be a valid number",
+sfgBadIntegerErrorStr="must be a valid integer",
+sfgBadDateErrorStr="must be a valid date",
+sfgJSValidationCalls=[],
+sfgShowOnSelectCalls=[];
+</script>                
+		<script type="text/javascript" src="./Geodata Metadata Requirements - OSGeo Wiki_files/wikibits.js"><!-- wikibits js --></script><link rel="stylesheet" type="text/css" href="./Geodata Metadata Requirements - OSGeo Wiki_files/KHTMLFixes.css">
+		<script type="text/javascript" src="./Geodata Metadata Requirements - OSGeo Wiki_files/index.php"><!-- site js --></script>
+		<!-- Head Scripts -->
+<script>
+sfiElements = new Object();
+</script>
+<script src="./Geodata Metadata Requirements - OSGeo Wiki_files/ajax.js"></script>
+<style type="text/css">/*<![CDATA[*/
+li#ca-latex {margin-left:1.6em;}
+/*]]>*/</style>
+
+		<link rel="alternate" type="application/rdf+xml" title="Geodata Metadata Requirements" href="http://wiki.osgeo.org/index.php?title=Special:ExportRDF/Geodata_Metadata_Requirements&xmlmime=rdf">
+	</head>
+<body class="mediawiki  ltr ns-0 ns-subject page-Geodata_Metadata_Requirements">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">Geodata Metadata Requirements</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From OSGeo Wiki</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#column-one">navigation</a>, <a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#searchInput">search</a></div>			<!-- start content -->
+			<p>One goal of the <a href="http://wiki.osgeo.org/wiki/Public_Geospatial_Data_Project" title="Public Geospatial Data Project">Public Geospatial Data Project</a> is to offer, in the future, a repository of reusable public geographic data that can support open source geospatial software projects, both inside and outside the foundation.
+</p><p>One big requirement for a potential <a href="http://wiki.osgeo.org/wiki/Geodata_Repository" title="Geodata Repository">Geodata Repository</a> is that there be a well-defined baseline for metadata. This can be seen as a quality assurance effort - data won't be accepted without a certain amount of metadata. 
+</p><p>The <a href="http://www.fgdc.gov/metadata/%7CUS" class="external text" rel="nofollow">Federal Geographic Data Committee metadata standard</a> emphasises conformance, but doesn't emphasise exchangeability / reusability. FDGC is standard for "Spatial Data Infrastucture" efforts, but doesn't have much of a "geospatial web" orientation.
+</p><p>There are some properties in addition to FGDC which it would be really useful to have - different distribution channels like WFS, bittorrent which have come into existence since FGDC was originally defined. For many elements, FGDC asks for full-text descriptions. More structure in descriptions would help with automating discovery or re-use. 
+</p><p>This is perpetual work in progress. See also:
+</p>
+<ul><li> <a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Translata" title="Geodata Metadata Translata">Geodata Metadata Translata</a>
+</li><li> <a href="http://wiki.osgeo.org/wiki/Simple_Catalog_Interface" title="Simple Catalog Interface">Simple Catalog Interface</a> 
+</li><li> <a href="http://wiki.osgeo.org/wiki/Geometa_Engine" title="Geometa Engine">Geometa Engine</a>
+</li><li> <a href="http://wiki.osgeo.org/wiki/EbRIM" title="EbRIM">ebRIM</a>
+</li></ul>
+<table id="toc" class="toc"><tbody><tr><td><div id="toctitle"><h2>Contents</h2> <span class="toctoggle">[<a id="togglelink" class="internal" href="javascript:toggleToc()">hide</a>]</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Draft_Metadata_model"><span class="tocnumber">1</span> <span class="toctext">Draft Metadata model</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Data_Set"><span class="tocnumber">1.1</span> <span class="toctext">Data Set</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Discovery"><span class="tocnumber">2</span> <span class="toctext">Discovery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Requirements"><span class="tocnumber">2.1</span> <span class="toctext">Requirements</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Webcrawlers_perspective_or:_How_to_boost_your_geodata.3F"><span class="tocnumber">2.2</span> <span class="toctext">Webcrawlers perspective or: How to boost your geodata?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Information_model_for_metadata_exchange"><span class="tocnumber">2.3</span> <span class="toctext">Information model for metadata exchange</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Dublin_Core_lite_for_Geo_.28DClite4G.29"><span class="tocnumber">2.3.1</span> <span class="toctext">Dublin Core lite for Geo (DClite4G)</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Examples"><span class="tocnumber">2.3.2</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Other_Relevant_Info"><span class="tocnumber">2.4</span> <span class="toctext">Other Relevant Info</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Guidelines_for_a_minimal_OAI-PMH_implementation"><span class="tocnumber">2.5</span> <span class="toctext">Guidelines for a minimal OAI-PMH implementation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#OAI_implementations"><span class="tocnumber">2.5.1</span> <span class="toctext">OAI implementations</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Geospatial"><span class="tocnumber">3.1</span> <span class="toctext">Geospatial</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#RDF"><span class="tocnumber">3.2</span> <span class="toctext">RDF</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Notes"><span class="tocnumber">3.3</span> <span class="toctext">Notes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#From_Geodata_Packaging_Working_Group:"><span class="tocnumber">3.3.1</span> <span class="toctext">From Geodata Packaging Working Group:</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#See_Also"><span class="tocnumber">3.4</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Comments"><span class="tocnumber">4</span> <span class="toctext">Comments</span></a></li>
+</ul>
+</td></tr></tbody></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h1> <span class="mw-headline" id="Draft_Metadata_model"> Draft Metadata model </span></h1>
+<p>Attempting to abstract the minimal metadata model below (<a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Information_model_for_metadata_exchange">DClite4G</a>) out into <a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Model" title="Geodata Metadata Model">Geodata Metadata Model</a> (see there), which serves for a metadata management tool. This is what OSGeo Geodata Committee participants have identified as their core needs for metadata.
+</p><p>It was generated from an <a href="http://frot.org/osgeo/geometadata.rdf" class="external text" rel="nofollow">RDF model</a>. This picks an arbitrary namespace for an OWL schema that maps to most, if not all, of the FGDC mandatory properties and provides some extra ones. 
+</p>
+<h2> <span class="mw-headline" id="Data_Set"> Data Set </span></h2>
+<p>This is an draft to define a metadata information model for a OSGeo catalogue. <a href="http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements#Information_model_for_metadata_exchange" title="Geodata Metadata Requirements">Below</a> there is another minimal metadata information model targeted for metadata exchange and harvesting (name proposed: DClite4G). 
+</p>
+<ul><li> Title: Title of the data set. Corresponds to Dublin Core <b>title</b>
+</li><li> Description: Text description of the data set. Corresponds to Dublin Core <b>description</b> element.
+</li><li> Originator
+<ul><li> Person: A person responsible for publication of the data set - name and contact email address. These properties are well-defined in the <a href="http://xmlns.com/foaf/0.1/" class="external text" rel="nofollow">FOAF</a> vocabulary.
+</li><li> Organization: A organization responsible for publication of the data set - name and contact email address. These properties are well-defined in the <a href="http://xmlns.com/foaf/0.1/" class="external text" rel="nofollow">FOAF</a> vocabulary.
+</li></ul>
+</li><li> Spatial Data Organization: Vector, Raster or Point data, as described in FGDC. (cf <a href="http://biology.usgs.gov/fgdc.metadata/version2/sdorg.htm" class="external free" rel="nofollow">http://biology.usgs.gov/fgdc.metadata/version2/sdorg.htm</a> )
+</li><li> Datasource: URL from which the data can be downloaded via different protocols 
+<ul><li> WFS: For Vector data in GML 
+</li><li> File at HTTP URL: For Raster data described in GML
+</li><li> BitTorrent: URL of bittorrent .torrent tracker file.
+</li><li> Other Web API: For example, OpenStreetmap API ( <a href="http://wiki.openstreetmap.org/index.php/REST" class="external free" rel="nofollow">http://wiki.openstreetmap.org/index.php/REST</a> )
+</li></ul>
+</li><li> License information: Emphasis on public geographic data licenses: PGL, possible LPGL, Public Domain, Creative Commons-type licenses. These can be represented by URLs.
+</li><li> Publication date: Corresponds to Dublin Core <b>date</b>: ISO compliant date of publication.
+</li><li> Timespan
+</li><li> Time Period
+<ul><li> start date and end date
+</li><li> single date
+</li><li> Extents
+</li></ul>
+</li><li> Spatial Domain: A lot of this can be inferred either using GDAL/OGR or collected from a WMS/WFS GetCapabilities. It would be nice to bypass human error on collecting this kind of metadata.
+<ul><li> bounding coordinates: FGDC specifies north, east, west, south bounding co-ordinates. It doesn't specify a projection in which these should be described. For reasons of simplicity it could make sense to require these be in WGS84 (EPSG:4236) - for the same reasons <a href="http://georss.org/" class="external text" rel="nofollow">GeoRSS</a> decided to mandate WGS84, rather than complicate matters by dictating that people also specify an SRS.
+</li><li> Projection (Raster, Vector, Coverage): Original projection of the data (reference to an&nbsp;?)
+</li><li> Horizontal and vertical datum;
+</li><li> Horizontal and vertical units.
+</li><li> Resolution (Raster,Coverage): (property of DataSet). e.g. map units per pixel where map units are defined by SRS. can be different in horizontal / vertical axes e.g. non square pixels
+</li><li> Colour Depth (Raster): 8/16/24 bit etc - this is useful rather than required 
+</li><li> Transparency (Raster) 
+</li><li> Scale (Vector):Map scale at which vectors are considered accurate. Quantified as a fractional/dimensionless number - 'inches per inch' - on a scale between 1 and 0 - or inverse scale such as 1:50000 - and we would want to store this in a consistent way.
+</li></ul>
+</li><li> Layers: DataSet has multiple Layers
+<ul><li> Name
+</li><li> Description
+</li><li> Extent: can be non-rectangular
+</li><li> Scale Hinting: minscale / maxscale - cf resolution and scale - are these actually properties of layers and not really of data sets? (eg data set contains multiple layers - will they be in any way likely to contain different scale properties?)
+</li><li> Optional extra properties
+</li></ul>
+</li><li> Taxonomy/Ontology: Currently undecided; would be good to refer this to current well-known thesauri for data themes.
+</li></ul>
+<h1> <span class="mw-headline" id="Discovery"> Discovery </span></h1>
+<h2> <span class="mw-headline" id="Requirements"> Requirements </span></h2>
+<p>A discovery resource is essential to expose resultant metadata as per this document.  Below are requirements:
+</p><p>Publish:
+</p>
+<ul><li> ability to publish/register a web service
+</li><li> ability to publish/register a static resource
+</li><li> ability to harvest and classify public and private resources
+</li><li> ability to establish and maintain user/group/role based authentication
+</li><li> ability to provide a <a href="http://wiki.osgeo.org/wiki/RESTful" title="RESTful" class="mw-redirect">RESTful</a> authentication mechansim
+</li></ul>
+<p>Find:
+</p>
+<ul><li> ability to discover the existence of a web service
+</li><li> ability to discover the existence of a resource which is available via web services (i.e WMS layer, WFS feature type)
+</li><li> ability to discover the existence of a static resource (dataset, document, etc.)
+</li></ul>
+<p>Bind:
+</p>
+<ul><li> ability to perform discovery operations with spatial, aspatial and temporal predicates
+</li><li> ability to provide a <a href="http://wiki.osgeo.org/wiki/RESTful" title="RESTful" class="mw-redirect">RESTful</a> request API
+</li><li> ability to provide responses in XML
+</li><li> ability to expose resource/service metadata in a manner which facilitates dynamic connection to a resource/service
+</li></ul>
+<h2> <span class="mw-headline" id="Webcrawlers_perspective_or:_How_to_boost_your_geodata.3F"> Webcrawlers perspective or: How to boost your geodata? </span></h2>
+<p>Geoinformation content needs to be published and get disseminated somehow before it is being found by users. Following are some thoughts to help discovery/search services/brokers and their webcrawlers/harvesters/aggregators to do a better job. So the main question here is: What can content owners do to promote their information. It's mainly registration, declaration and citation. -- <a href="http://wiki.osgeo.org/wiki/User:Sfkeller" title="User:Sfkeller">Stefan</a> 11:25, 2 October 2006 (CEST) (<a href="http://tinyurl.com/ghhb2" class="external free" rel="nofollow">http://tinyurl.com/ghhb2</a>)
+</p>
+<ul><li> Self-registration through content provider 
+<ul><li> submit URL (like DNS)
+</li><li> Do a 'ping' (like RSS)
+</li><li> register through UDDI (if SOAP is 'unavoidable'...)
+</li></ul>
+</li><li> Self-declaration:
+<ul><li> Machine-readable only ('invisible'):
+<ul><li> (Geo) Sitemaps Protocol including GeoRSS and <a href="http://en.wikipedia.org/wiki/Robots_Exclusion_Standard" class="external text" rel="nofollow">robots.txt</a> (see sitemaps.org)
+</li><li> GeoRSS feed of feeds which contains GeoRSS encoded metadata records ('RSS of RSS')
+</li><li> OPML (natural to RSS, but more complicated than just 'RSS of RSS')
+</li><li> HTML link: &lt;link rel="alternate" type="application/rss+xml" title="RSS" href="http://rss.news.yahoo.com/rss/tech"&gt;
+</li></ul>
+</li><li> Visible/human readable:
+<ul><li> Feed icons
+</li><li> Chicklets
+</li></ul>
+</li></ul>
+</li><li> Citation through others: 
+<ul><li> XML link or relationship inside metadata record (see also the <a href="http://www.openarchives.org/OAI/2.0/guidelines-friends.htm" class="external text" rel="nofollow">'friends' container in OAI-PMH</a> metadata set header)
+</li><li> HTML link pointing to Webpage (suboptimal)
+</li></ul>
+</li></ul>
+<p>Note: See also "RSS auto-discovery": e.g. '"Blog Optimization", SES San Jose (aug. 2006): 1. Submit your feeds... Or: "Pimp My Blog in 8 Steps" (sept. 2006): (...) 3. Sign up for feedburner.com, (...) 8. Enable auto discovery (feed icon, chicklet).'
+</p>
+<h2> <span class="mw-headline" id="Information_model_for_metadata_exchange"> Information model for metadata exchange </span></h2>
+<p>This is the 'Dublin Core lite for Geo' (DClite4G) model (<a href="http://tinyurl.com/kfkyv" class="external free" rel="nofollow">http://tinyurl.com/kfkyv</a>).
+</p><p>Some design considerations:
+</p>
+<ul><li> This is a minimal metadata information model regarding to a metadata exchange protocol for harvesting (e.g. no filter nor GML implementation needed) and according to the ideas about a <a href="http://wiki.osgeo.org/wiki/Simple_Catalog_Interface" title="Simple Catalog Interface">Simple Catalog Interface</a>/protocol.
+</li><li> Based on Dublin Core (DC) and Catalogue Services Specification 2.0.1, OGC 04-021r3, p.22. 
+</li><li> Dublin Core need refined semantics of some properties/attributes. 
+</li><li> Have had hard times with the abundance use of namespaces. This is because DC specs and other XML 'practices' specialize properties/attribute types instead of specializing whole classes.
+</li><li> All properties/attributes have cardinality [0..1] except for identifiers (which are mandatory) and for those attributes which are really needed (as unbounded) for automation!
+</li><li> Take all information one can in an automated manner, e.g. from data set resource.
+</li></ul>
+<p>Details:
+</p>
+<ul><li> Services are included in attribute 'format' in the sense that WMS, etc. are just protocol bindings to geodata. Real well known services on it's own like filter or label placement services have a place there too. They could be still detected by challenging them with GetCatabilites (taken from OWS/WxS).
+</li><li> Indicating of quality of service could be a nice task for search service provider; no need to add it as attribute
+</li><li> Relationships between features is part of schema metadata: How to handle this...? 
+</li></ul>
+<p><br>
+</p>
+<h4> <span class="mw-headline" id="Dublin_Core_lite_for_Geo_.28DClite4G.29"> Dublin Core lite for Geo (DClite4G) </span></h4>
+<p>The following are notes on initial development.  <a href="http://wiki.osgeo.org/wiki/DCLite4G" title="DCLite4G">DCLite4G</a> contains details of the finalised model which now has an XML namespace at <a href="http://dclite4g.xmlns.com/" class="external text" rel="nofollow">dclite4g.xmlns.com</a>, intended for use in RDF documents though also usable in the context of Atom or KML.
+</p>
+<ul><li> Aligned and rearranged after some discussions on osgeodata-list and geotools-devel-list. Next steps: first consensus on approach/fields, then consensus about which encoding (DC, RDF or GeoRSS?). - <a href="http://wiki.osgeo.org/wiki/User:Sfkeller" title="User:Sfkeller">Stefan</a> 08:33, 26 September 2006 (CEST) 
+</li></ul>
+<dl><dt>Figure</dt><dd> Analysis UML class diagram of minimal metadata information model 'Dublin Core lite for Geo' (DClite4G) which consists of a single entity set (green); two entities/instances/records are shown, a 'dataset' (left, grey) and a 'service' (right, red).
+</dd></dl>
+<div class="center"><div class="floatnone"><a href="http://wiki.osgeo.org/wiki/File:DClite4G.png" class="image" title="Class diagram of &#39;Dublin Core lite for Geo&#39; (DClite4G)"><img alt="Class diagram of &#39;Dublin Core lite for Geo&#39; (DClite4G)" src="./Geodata Metadata Requirements - OSGeo Wiki_files/DClite4G.png" width="475" height="376"></a></div></div>
+<p><b>Dublin Core lite for Geo</b> (DClite4G) (Mandatory subset of DC elements plus georesource relationships, some XML content exept dc:identifier may be null/empty):
+</p>
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse:collapse;">
+
+<tbody><tr>
+<td><b>Attr. name</b></td><td> <b>Card.</b> </td><td> <b>Attr. type</b> </td><td> <b>Explanation</b> </td><td> <b>Equal to iso19115/128?</b> </td><td> <b>Status</b>
+</td></tr>
+<tr>
+<td>dc:identifier   </td><td> [1]    </td><td> URI     </td><td> A unique identifier which unambigiously identifies an item within a given context (i.e. a catalogue/repository, a model and a language) used for extracting and referencing metadata. Note that still several records can co-exist with the same dc:identifier either in different sets implementing different metadata models or because of multiple instances of records using different languages in title, etc. Note also that this identifier is not necessary the identifier of a resource. To access the resource associated with a metadata record, one must use dct:hasPart and dclite4g:OnlineResource (see also <a href="http://www.openarchives.org/OAI/2.0/guidelines-oai-identifier.htm" class="external text" rel="nofollow">OAI-PMH</a> and GeoTools) </td><td> iso19128:Identifier, iso19115: CI_Citation.identifier, else up to (meta-)data manager </td><td> Ok?
+</td></tr>
+<tr>
+<td>dc:title        </td><td> [0..1] </td><td> string (XML encoded) </td><td> A name given to the resource (regardless e.g. of naming restrictions of file systems). If a layer or file name exist in addition to a title this can be appended with // (tbd! proposal) and concatenated at end of this title string. </td><td> iso19128:title, iso19115: CI_Citation.title </td><td> Ok
+</td></tr>
+<tr>
+<td>dct:abstract    </td><td> [0..1] </td><td> URI or string (XML encoded)</td><td> A description of the resource. Either a URI reference to a human readable resource or a string. In case of dc:type 'service' (OWS) its the abstract (string) from of GetCapabilities document (GeoTools ServiceInfo has two fields: abstract and description...?) Subtype of dc:description; we use this as WMS, csw:record and ISO 19115 are using it. </td><td> iso19128:abstract, iso19115: MD_DataIdentification.abstract </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:type         </td><td> [0..1] </td><td> enumeration </td><td> The nature or genre of the content of the resource. 'dataset' or 'service' else 'document, 'text', 'image', 'sound', etc. (see <a href="http://dublincore.org/documents/dcmi-type-vocabulary/" class="external text" rel="nofollow">DCMI type (controlled) vocabulary</a>). (Not yet defined for Web Processing Service which have no specific georesource they are responsible for. What about special documents like OGC:SLD, OGC:WMC etc.?) </td><td> if WxS/OWS then 'service' else 'dataset' or another media type, up to (meta-)data manager </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:format       </td><td> [0..1] </td><td> URI     </td><td> A machine readable reference to either a <a href="http://www.iana.org/assignments/media-types/" class="external text" rel="nofollow">internet media (mime) type (recommended)</a> or a an xml schema namespace URI linking to an namespace authority. In case of dc:type='service' multiple schemas are to expect: insert them comma-separated? </td><td> 19128:AuthorityURL, iso19115: AuthorityURL </td><td> Ok
+</td></tr>
+<tr>
+<td>dct:spatial     </td><td> [0..1] </td><td> dcmiBox:Box with CRS </td><td> Subtype of dc:coverage. (CRS=WGS84; other possible values offered by dct: Point and TGN) </td><td> iso19128:EX_BoundingBox, iso19115: EX_BoundingBox </td><td> Ok
+</td></tr>
+<tr>
+<td>dct:modified    </td><td> [0..1] </td><td> date    </td><td> Date of last (published) change of resource (see <a href="http://www.w3.org/TR/NOTE-datetime" class="external text" rel="nofollow">W3C Encoding rules</a>). Subtype of dc:date </td><td> Timestamp of resource; GetCapabilities </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:subject      </td><td> [0..1] </td><td> string (ASCII) </td><td> A keyword list; e.g. ISO 19115 classification list. (clarification needed: separated by comma) </td><td> KeywordList, iso19115: MD_TopicCategoryCode </td><td> Ok
+</td></tr>
+<tr>
+<td>dclite4g:onlineResource </td><td> [0..*] </td><td> URI   </td><td> (formerly called onLineSrc) If dc:type='service' then this is the baseURL to it. If dc:type='dataset' it's either a dc:identifier which points to a metadata record of type 'service' or a dataset URL e.g. uri:ftp:// host.com/path/filename. Subtype of dc:relation. Note that in some implementations this seems redundant to dc:identifier but in fact this is the real access point of the resource. </td><td> if dc:type='dataset' given by provider, if dc:type='service' iso19128: OnlineResource (can be the same as described in dct:hasPart (dataSetURI) of a service metadata record) </td><td> Ok?
+</td></tr>
+<tr>
+<td>dct:hasPart     </td><td> [0..*] </td><td> URI     </td><td> Either a URI to a dataset or a dc:identifier (which points to a metadata record of dc:type='dataset'). Only applicable if type 'service'; N/A for type 'dataset'. Subtype of dc:relation. Note that in some implementations this seems redundant to dc:identifier but in fact this is the real access point the resource associated with a metadata record. </td><td> iso19128: DataURL, iso19115: MD_metadata.dataSetURI </td><td> Ok?
+</td></tr>
+<tr>
+<td>dc:source       </td><td> [0..1] </td><td> URI or string (XML encoded) </td><td> Description from which the present resource is derived, lineage information. Either an URI reference to a human readable resource or a string. (Note: Server base URLs and file URIs are handled elsewhere) </td><td> Up to (meta-)data owner </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:publisher    </td><td> [0..1] </td><td> string (XML encoded) </td><td> Civic Address: if type service derived from GetCapabilities ('ContactInformation') else flattened KML style (= xAL) (still awaiting consensus in other OGC specs. or GeoRSS) </td><td> Title element of 19128:Attribution; OrganisationName element of 19115:CI_ResponsibleParty </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:language     </td><td> [0..1] </td><td> enumeration </td><td> <a href="http://tools.ietf.org/html/rfc1766" class="external mw-magiclink-rfc">RFC 1766</a> (ISO 639, followed optionally by country ISO 3166). Max. Cardinality is intentionally 1 which for the sake of simplicity means that translations of a metadata record in different languages is recorded in several metadata instances and not in multiple dc:language, dc:title or dct:abstract occurrences. </td><td>  Up to (meta-)data manager, WxS spec. do foresee this </td><td> Ok
+</td></tr>
+<tr>
+<td>dc:rights       </td><td> [0..1] </td><td> URI or string (XML encoded) </td><td> License information link about the resource. Probably also (link to) disclaimers. Either an URI reference to a human readable resource or a string (machine readable licenses is an issue;  <a href="http://backend.userland.com/creativeCommonsRssModule" class="external text" rel="nofollow">this</a> could be an starting point. </td><td> Up to (meta-)data manager; iso19115:???</td><td> Ok
+</td></tr>
+<tr>
+<td>dc:relation     </td><td> [0..*] </td><td> URI     </td><td> A reference to a related resource. DClite4G uses following subtypes: dc:hasPart and iso19115: OnlineResource (see above). If using DC unqualified dc:relation could be used. This could be a machine readable reference to other metadata providers in order to let discover other (meta) data providers. Note that OAI-PMH has such a relationship called '<a href="http://www.openarchives.org/OAI/2.0/guidelines-friends.htm" class="external text" rel="nofollow">friends</a>' but on the metadata collection/set level. ------------------------------------------------------------------------------- </td><td> Placeholder; should be refined in a specific model; meaning up to (meta-)data owner </td><td> Ok?
+</td></tr></tbody></table>
+<p>Legend: 'Equal to' means possible to derive from iso19128 (= WxS GetCapabilities). 
+</p><p>Remarks:
+</p>
+<ul><li> General:
+<ul><li> DC attributes/properties left as they are: dc:Audience; dc:Contributor; dc:Creator.
+</li><li> All attributes/properties have at most cardinality 1 except iso19115: OnlineResource and dct:hasPart (and dc:relation from complementary part of DClite4G).
+</li><li> Depending on the modeling approach, even these elements can become cardinality 1. NOTE that datasets (geodata resources) and services (data access services) in principle have a many-to-many relationship: Here a geodata resource (dc:type dataset) can have many iso19115: OnlineResource elements and a dc:type data_access_service has only one dc:description which can be a GetCapabilities document.
+</li><li> No additinal DC attributes/properties required; few of them need to be specialized (see dct:...);
+</li><li> See for some general explanations about <a href="http://cicharvest.grainger.uiuc.edu/qualifieddc.asp" class="external text" rel="nofollow">dc/dct here</a>.
+</li><li> Assume metadata (as opposite to many geodata sets) is always free and open information, like <a href="http://creativecommons.org/licenses/by-sa/2.5/" class="external text" rel="nofollow">Creative Commons Share Alike</a> 
+</li><li> An encoding still has to be discussed (see following example). need schemaLocation in OSGeo!?
+</li></ul>
+</li><li> Details:
+<ul><li> GetCapabilities adds following attributes (not yet modeled here): Fees, ScaleHint and Style.
+</li><li> Sorted out or highly disputed (non-DC) elements: fees, scalehint, harvestinterval.
+</li><li> dct:modified and dct:spatial can be sync'ed from dataset.
+</li><li> Attribute 'relation': This was'nt discussed yet. Simply helps harvesters to discover more (meta) data providers.
+</li><li> Attribute 'publisher': Carl mentioned such a structure <a href="http://lists.eogeo.org/pipermail/georss/2006-May/000514.html" class="external text" rel="nofollow">here</a> which includes StreetAddress, addressee, primaryAddressNumber, streetName, city, state, zipCode, countryCode (like in KML and behind Google geocoding service!?)
+</li><li> Keywords is included in attribute 'dc:subject'; I think people have a hard time to agree on an enumerated list (see the success of folksonomy).
+</li></ul>
+</li><li> Note that OAI-PMH... 
+<ul><li> puts a XML envelope around this metadata and adds a header containing two attributes: 'identifier' to identify an metadata record and 'datestamp' as date of last (published) change of metadata record.
+</li><li> requires to define a name for metadata sets. Let's don't care about this yet.
+</li></ul>
+</li></ul>
+<h4> <span class="mw-headline" id="Examples"> Examples </span></h4>
+<p>Some examples of <b>DClite4G</b> instances/records: 
+(legend: 'literal' is a constant, // is a comment) (<a href="http://tinyurl.com/eaaaj" class="external free" rel="nofollow">http://tinyurl.com/eaaaj</a>)
+</p><p><b>A web mapping service instance example derived from GetCapabilities</b>: Mapping OGC:WxS GetCapabilities to a service instance. Can also be called a 'data access point' (Note GetCapabilities finally needs to be delivered by some service owner!):
+</p>
+<pre> dc:identifier      = identifier of the metadata record (ev. a machine readable URI) 
+ dc:title           = WxS Service/Title
+ dct:abstract       = WxS Service/Abstract
+ dc:type            = 'service'
+ dc:format          = namespace to OGC:WxS schema.xsd
+ dct:spatial        = Root BoundingBox // from Capabilities XML
+ dct:modified       = timestamp // e.g. from HTTP header or updateSequence
+ dc:subject         = WxS Service/KeywordList
+ dclite4g:onlineResource = baseURI of WxS // seems redundant to id but is the real link to the service
+ dct:hasPart        = a dc:identifier which points to each Layer element
+ dct:hasPart        = another dc:identifier, etc.
+ dc:source          = null // N/A. Note: Not meant as an onlineResource
+ dc:publisher       = WxS Service ContactInformation/Organization
+ dc:language        = maybe HTTP header for lang (ISO3166 code), soon supported by WMS
+ dc:rights          = WxS Services Fees/AccessConstraints
+ dc:relation        = definition up to metadata provider
+</pre>
+<p><b>A dataset example derived from GetCapabilities</b>: Mapping OGC:WxS GetCapabilities to a dataset/georesource/data access point (Note: There is no hasPart relationship in datasets):
+</p>
+<pre> dc:identifier      = identifier of the metadata record (ev. a machine readable URI) 
+ dc:title           = WxS Layer/Title
+ dct:abstract       = WxS Layer/Abstract
+ dc:type            = 'dataset' 
+ dc:format          = namespace to format
+ dct:spatial        = BoundingBox from Layer/BoundingBox
+ dct:modified       = timestamp from HTTP header maybe or updateSequence
+ dc:subject         = Layer/KeywordList
+ dclite4g:onlineResource = a baseURI of WxS (GetMap/GetFeatures) // seems redundant to id. but is the real 'data access point'
+ dclite4g:onlineResource = another baseURI of WxS // another dataset binding
+ dc:source          = null // Note: Not meant as an onlineResource
+ dc:publisher       = from Service if available?
+ dc:language        = from Service if available?
+ dc:rights          = from Service if available?
+ dc:relation        = definition up to metadata provider
+</pre>
+<p><b>A dataset example delivered by a dataset owner</b>:
+</p>
+<pre> dc:identifier      = a data access point metadata defined by dataset owners context
+ dc:title           = entered by dataset owner
+ dct:abstract       = entered by dataset owner
+ dc:type            = 'dataset' 
+ dc:format          = namespace to format entered by dataset owner
+ dct:spatial        = BoundingBox from data warehouse
+ dct:modified       = file timestamp from data warehouse
+ dc:subject         = keyword list entered by dataset owner
+ dclite4g:onlineResource = a http URI entered by dataset owner // dataset binding
+ dclite4g:onlineResource = a baseURI of a WxS entered by dataset owner // another binding
+ dc:source          = entered by dataset owner // Note: Not online resource
+ dc:publisher       = entered by dataset owner
+ dc:language        = entered by dataset owner (or derived?)
+ dc:rights          = entered by dataset owner
+ dc:relation        = definition up to metadata provider
+</pre>
+<p><b>A dataset example with OAI-PMH XML encoding in DClite4G format</b>:
+</p><p>Notes: 
+</p>
+<ul><li> Example values are only for explanation purposes and purely fictive.
+</li><li> XML Schema (= geometadc.xsd? or dclite4g.xsd?) still tbd.
+</li><li> This record is not yet validated! 
+</li><li> Took 'dclite4g' as envelope name.
+</li></ul>
+<pre>  &lt;dclite4g:qualifieddc 
+    xmlns:dclite4g="http://www.osgeo.org/schemas/dclite4g/0.01" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:dct="http://purl.org/dc/terms/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.osgeo.org/schemas/dclite4g/ dclite4g.xsd"&gt;
+
+    &lt;dc:identifier&gt;www.osgeo.org/geodata/:f264-77d2-09ce-aa39-f0f0&lt;/dc:identifier&gt;
+    &lt;dc:title&gt;National Elevation Mapping Service for Texas&lt;/dc:title&gt;
+    &lt;dct:abstract&gt;Elevation data collected for the National Elevation 
+                  Dataset (NED).&lt;/dct:abstract&gt;
+    &lt;dc:type&gt;dataset&lt;/dc:type&gt;
+    &lt;dc:format&gt;...uri to the schema of the information model 
+               (xsd, realxng, schematron, ili, ...)&lt;/dc:format&gt;
+    &lt;dct:spatial&gt;
+      &lt;Box projection="EPSG:4326" name="Geographic"&gt;
+        &lt;northlimit&gt;34.353&lt;/northlimit&gt;
+        &lt;eastlimit&gt;-96.223&lt;/eastlimit&gt;
+        &lt;southlimit&gt;28.229&lt;/southlimit&gt;
+        &lt;westlimit&gt;-108.44&lt;/westlimit&gt;
+      &lt;/Box&gt;
+    &lt;/dct:spatial&gt;
+    &lt;dct:modified&gt;2004-03-01&lt;/dct:modified&gt;
+    &lt;dc:subject&gt;Elevation, Hypsography, and Contours&lt;/dc:subject&gt;
+    &lt;dclite4g:onlineResource&gt;uri:http://www.osgeo.org/geodata/ned_grid_georss.xml&lt;/dclite4g:onlineResource&gt;
+    &lt;dclite4g:onlineResource&gt;uri:http://www.osgeo.org/services/wms/&lt;/dclite4g:onlineResource&gt;
+    &lt;dclite4g:onlineResource&gt;uri:http://www.osgeo.org/geodata/ned_grid.shp&lt;/dclite4g:onlineResource&gt;
+    &lt;dc:source&gt;Lineage: Based on 30m horizontal and 15m vertical accuracy.&lt;/dc:source&gt;
+
+    &lt;!-- part of DC but not part of DClite4G --&gt;
+    &lt;dc:publisher&gt;U.S. Geological Survey&lt;/dc:publisher&gt;
+    &lt;dc:language&gt;en&lt;/dc:language&gt;
+    &lt;dc:rights&gt;uri:http://www.usgs.gov/pubprod/&lt;/dc:rights&gt;
+  &lt;/dclite4g:qualifieddc&gt;
+</pre>
+<p><b>Same record example as before but with unqualified DC encoding</b>:
+</p><p>Note that this unqualified DC record can be seen as a mapping from DClite4G by using it's well defined semantics and content 'encoding'. See explanations above to understand the semantics of these DC-elements:
+</p>
+<pre> ...
+ &lt;dc:identifier&gt;www.osgeo.org/geodata/:f264-77d2-09ce-aa39-f0f0&lt;/dc:identifier&gt;
+ &lt;dc:title&gt;National Elevation Mapping Service for Texas&lt;/dc:title&gt;
+ &lt;dc:description&gt;Elevation data collected for the National Elevation 
+                 Dataset (NED).&lt;/dc:description&gt;
+ &lt;dc:type&gt;dataset&lt;/dc:type&gt;
+ &lt;dc:format&gt;...uri to the schema of the information model 
+            (xsd, realxng, schematron, ili, ...)&lt;/dc:format&gt;
+ &lt;dc:coverage&gt;34.353 -96.223 28.229 -108.44&lt;/dc:coverage&gt;
+ &lt;dc:date&gt;2004-03-01&lt;/dc:date&gt;
+ &lt;dc:subject&gt;Elevation, Hypsography, and Contours&lt;/dc:subject&gt;
+ &lt;dc:relation&gt;uri:<a href="http://www.osgeo.org/services/wms/" class="external free" rel="nofollow">http://www.osgeo.org/services/wms/</a>&lt;/dc:relation&gt;
+ &lt;dc:source&gt;Lineage: Based on 30m horizontal and 15m vertical accuracy.&lt;/dc:source&gt;
+ ...
+</pre>
+<h2> <span class="mw-headline" id="Other_Relevant_Info"> Other Relevant Info </span></h2>
+<ul><li> <a href="http://wiki.osgeo.org/wiki/Simple_Catalog_Interface" title="Simple Catalog Interface">Simple_Catalog_Interface</a>
+</li><li> <a href="http://www.gis.hsr.ch/wiki/OSGeodata" class="external text" rel="nofollow">OSGeodata on GISpunkt Wiki</a> - These pages are about the search of an open, lean and mean "protocol for the incremental exchange of metadata about geographic resources between systems". Profiled specifications like WFS or OAI-PMH are currently on our short list. Delving into 'Open Archives Initiative Protocol for Metadata Harvesting' (OAI-PMH) is strongly encouraged. It's a low barrier interoperability specification based around metadata harvesting model, it's stable (subsequent revisions are backwards compatible) and uses unqualified Dublin Core as default metadata information model; there exist open source tools (like OAICat) and it has been adopted among others by Google and Yahoo! but it's not a search protocol.
+</li><li> See here a <a href="http://www.gis.hsr.ch/wiki/OAI-PMH" class="external text" rel="nofollow">comparison between CSW, WFS and OAI-PMH</a>.
+</li></ul>
+<h2> <span class="mw-headline" id="Guidelines_for_a_minimal_OAI-PMH_implementation"> Guidelines for a minimal OAI-PMH implementation </span></h2>
+<p>OAI-PMH means <i>Open Archives Initiative Protocol for Metadata Harvesting</i>. For an introduction to OAI-PMH 2 see <a href="http://www.gis.hsr.ch/wiki/OAI-PMH" class="external text" rel="nofollow">here</a>. 
+</p><p>This is a draft implementation guideline for a minimal OAI-PMH implementation for geospatial resources which contains following five steps:
+</p>
+<ul><li> <b>1. Join the community</b>: Register to the 'OAI Implementers list' at the <a href="http://www.openarchives.org/" class="external text" rel="nofollow">OAI Homepage</a>
+</li><li> <b>2. Read the spec.</b>: <a href="http://www.openarchives.org/OAI/openarchivesprotocol.html" class="external text" rel="nofollow">The Harvesting Protocol (version 2.0) specification</a> together with <a href="http://www.openarchives.org/OAI/2.0/guidelines.htm" class="external text" rel="nofollow">Implementation Guidelines</a>
+</li><li> <b>3. Look at existing <a href="http://www.openarchives.org/tools/tools.html" class="external text" rel="nofollow">tools</a></b>.
+</li><li> <b>4. Implement protocol with DC model following these recommendations and test it</b>: <a href="http://www.purl.org/NET/oai_explorer" class="external text" rel="nofollow">The official OAI Repository Explorer</a>.
+</li><li> <b>5. Extend it</b> later eventually with specific metadata models like ISO19139 or DClite4G and respective XML formats.
+</li></ul>
+<p>Following are more specific guidelines for a minimal OAI-PMH implementation of a so called 'data provider' using only the mandatory 'unqualified' Dublin Core (DC):
+</p>
+<ul><li> Only <b>three</b> operations (verbs) are needed: Identify, ListMetadataFormats and ListRecords. 
+</li><li> Following operations are not required (initially): ListIdentifiers, ListSets, GetRecord. 
+</li><li> No incremental harvesting (resumption process for ListXxx operations with more than 1000 records)
+</li><li> No compression as defined in the OAI-PMH spec. (compression at lower http level still possible)
+</li><li> Date granularity may be 'day' not seconds (YYYY-MM-DD)
+</li><li> Keeping track of deleted record may not be supported (deletedRecord=no)
+</li><li> Mandatory DC supported as data model is sufficient for a start but with specific semantics (e.g. coverage, relation) (see also example below):
+<ul><li> dc:description contains dct:abstract
+</li><li> dc:coverage contains bounding box encoding as defined in <a href="http://georss.org/simple.html#Box" class="external free" rel="nofollow">http://georss.org/simple.html#Box</a> 
+</li><li> dc:date means in fact dct:modified
+</li><li> dc:relation is filled in with dclite4g:onLineSrc. If dc:type='service' dct:hasPart can be derived from GetCapabilities.
+</li></ul>
+</li></ul>
+<h3> <span class="mw-headline" id="OAI_implementations"> OAI implementations </span></h3>
+<p>OAI with Dublin Core:
+</p>
+<ul><li> 'Geo-Metadatabase' (GMDB), open source (GPL, PHP) 
+</li><li> GeoShop, infoGrips GmbH, Zurich, Switzerland (C, Java)
+</li><li> <a href="http://www.osgeo.org/geonetwork" class="external text" rel="nofollow">GeoNetwork opensource</a> (GPL, Java)
+</li></ul>
+<h1> <span class="mw-headline" id="References"> References </span></h1>
+<h2> <span class="mw-headline" id="Geospatial"> Geospatial </span></h2>
+<ul><li> <a href="http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/index_html" class="external text" rel="nofollow">FGDC geospatial metadata model</a>
+</li></ul>
+<ul><li> <a href="http://dcs.dlese.org/preview/admin/view.do?id=TEST-000-000-000-008" class="external text" rel="nofollow">GEON geospatial metadata model</a>
+</li></ul>
+<ul><li> <a href="http://gcmd.nasa.gov/Aboutus/standards/fgdc_to_dif.html" class="external text" rel="nofollow">DIF geospatial metadata model</a>
+</li></ul>
+<ul><li> <a href="http://georss.org/" class="external text" rel="nofollow">GeoRSS</a>
+</li></ul>
+<ul><li> <a href="http://en.wikipedia.org/wiki/Web_Feature_Service" class="external text" rel="nofollow">WFS</a>
+</li></ul>
+<ul><li> <a href="http://geoapi.sourceforge.net/" class="external text" rel="nofollow">GeoAPI</a> contains an implementation of ISO 19115
+</li></ul>
+<h2> <span class="mw-headline" id="RDF"> RDF </span></h2>
+<ul><li> <a href="http://www.w3.org/RDF/" class="external text" rel="nofollow">Resource Description Framework</a>
+</li></ul>
+<ul><li> <a href="http://www.w3.org/TR/rdf-primer/" class="external text" rel="nofollow">RDF Primer</a>
+</li></ul>
+<ul><li> <a href="http://www.w3.org/TR/owl-guide/" class="external text" rel="nofollow">OWL Web Ontology Language Guide</a>
+</li></ul>
+<ul><li> <a href="http://sweet.jpl.nasa.gov/ontology/" class="external text" rel="nofollow">Semantic Web for Earth and Environmental Terminology</a> OWL Ontologies at NASA
+</li></ul>
+<ul><li> <a href="http://www.dublincore.org/documents/dces/" class="external text" rel="nofollow">Dublin Core</a> metadata model for documents
+</li></ul>
+<ul><li> <a href="http://xmlns.com/foaf/0.1/" class="external text" rel="nofollow">FOAF</a> metadata model for people and organisations 
+</li></ul>
+<ul><li> <a href="http://usefulinc.com/doap/" class="external text" rel="nofollow">DOAP</a> metadata model for open source software projects and code repositories
+</li></ul>
+<h2> <span class="mw-headline" id="Notes"> Notes </span></h2>
+<p>metadata isn't an easy task. The balance between completeness and people simply ignoring to generate it...
+</p><p>I wish I had had a prexisting plan of how to index and search for the data sets on extent and 'type'  that we were adding
+</p>
+<h3> <span class="mw-headline" id="From_Geodata_Packaging_Working_Group:"> From <a href="http://wiki.osgeo.org/wiki/Geodata_Packaging_Working_Group" title="Geodata Packaging Working Group">Geodata Packaging Working Group</a>: </span></h3>
+<ul><li><ul><li> Specifications of a data set
+<ul><li> Creator
+</li><li> Date
+</li><li> License
+</li><li> Data Type
+</li><li> Topic
+</li><li> Spatial Extent
+</li><li> Coordinate System/Projection
+</li><li> Target Scale/Precision
+</li><li> Attribute Data
+</li></ul>
+</li></ul>
+</li></ul>
+<h2> <span class="mw-headline" id="See_Also"> See Also </span></h2>
+<ul><li> <a href="http://wiki.osgeo.org/wiki/Geodata_Discovery_Working_Group" title="Geodata Discovery Working Group">Geodata Discovery Working Group</a>
+</li><li> <a href="http://wiki.osgeo.org/wiki/Geodata_Repository" title="Geodata Repository">Geodata Repository</a>
+</li><li> <a href="http://wiki.osgeo.org/wiki/Geodata_processing_at_telascience.org" title="Geodata processing at telascience.org">Geodata processing at telascience.org</a>
+</li><li> <a href="http://lists.osgeo.org/mailman/listinfo/geodata" class="external text" rel="nofollow">OSGeo-Geodata Mailing list</a> (discussion archives, please join the list)
+</li></ul>
+<h1> <span class="mw-headline" id="Comments"> Comments </span></h1>
+<ul><li> I would like to propose an additional element for the metadata model--data source (or lineage).  If the data is derived from some other data, we should be able to backtrack and look at its parent/s.  "Lineage" is a conditional element in FGDC but I think it's important enough that we should include it in our model. I suppose this can also be included in the Description but wouldn't it be nice to have this included as a required element? This is useful when checking for errors/consistency.   -Perry
+</li></ul>
+<ul><li> I find it difficult to believe that these "requirements" can be useful without switching their basis from FGDC to ISO-19115.  I have posted more extensive comments as Discussion.  Please read and comment. -- Bruce
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 89/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key osgeo_wiki-osgeo_:pcache:idhash:1488-0!1!0!!en!2!edit=0 and timestamp 20141102143134 -->
+<div class="printfooter">
+Retrieved from "<a href="./Geodata Metadata Requirements - OSGeo Wiki_files/Geodata Metadata Requirements - OSGeo Wiki.html">http://wiki.osgeo.org/wiki/Geodata_Metadata_Requirements</a>"</div>
+			<div id="catlinks"><div id="catlinks" class="catlinks"><div id="mw-normal-catlinks"><a href="http://wiki.osgeo.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir="ltr"><a href="http://wiki.osgeo.org/wiki/Category:Public_Geospatial_Data_Committee" title="Category:Public Geospatial Data Committee">Public Geospatial Data Committee</a></span> | <span dir="ltr"><a href="http://wiki.osgeo.org/wiki/Category:Standards" title="Category:Standards">Standards</a></span></div></div></div>			<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+					 <li id="ca-nstab-main" class="selected"><a href="./Geodata Metadata Requirements - OSGeo Wiki_files/Geodata Metadata Requirements - OSGeo Wiki.html" title="View the content page [ctrl-c]" accesskey="c">Page</a></li>
+					 <li id="ca-talk"><a href="http://wiki.osgeo.org/wiki/Talk:Geodata_Metadata_Requirements" title="Discussion about the content page [ctrl-t]" accesskey="t">Discussion</a></li>
+					 <li id="ca-viewsource"><a href="http://wiki.osgeo.org/index.php?title=Geodata_Metadata_Requirements&action=edit" title="This page is protected.
+You can view its source [ctrl-e]" accesskey="e">View source</a></li>
+					 <li id="ca-history"><a href="http://wiki.osgeo.org/index.php?title=Geodata_Metadata_Requirements&action=history" title="Past revisions of this page [ctrl-h]" accesskey="h">History</a></li>
+				</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="http://wiki.osgeo.org/index.php?title=Special:UserLogin&returnto=Geodata_Metadata_Requirements" title="You are encouraged to log in; however, it is not mandatory [ctrl-o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/skins/common/images/osgeo2.png);" href="http://www.osgeo.org/" title="Go to OSGeo Main site"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class="portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class="pBody">
+			<ul>
+				<li id="n-mainpage-description"><a href="http://wiki.osgeo.org/wiki/Main_Page" title="Visit the main page [ctrl-z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://wiki.osgeo.org/wiki/OSGeo_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://wiki.osgeo.org/wiki/OSGeo_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="http://wiki.osgeo.org/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [ctrl-r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="http://wiki.osgeo.org/wiki/Special:Random" title="Load a random page [ctrl-x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://wiki.osgeo.org/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://wiki.osgeo.org/wiki/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search OSGeo Wiki [ctrl-f]" accesskey="f" value="">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go">&nbsp;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search">
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="http://wiki.osgeo.org/wiki/Special:WhatLinksHere/Geodata_Metadata_Requirements" title="List of all wiki pages that link here [ctrl-j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="http://wiki.osgeo.org/wiki/Special:RecentChangesLinked/Geodata_Metadata_Requirements" title="Recent changes in pages linked from this page [ctrl-k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="http://wiki.osgeo.org/wiki/Special:SpecialPages" title="List of all special pages [ctrl-q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://wiki.osgeo.org/index.php?title=Geodata_Metadata_Requirements&printable=yes" title="Printable version of this page [ctrl-p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="http://wiki.osgeo.org/index.php?title=Geodata_Metadata_Requirements&oldid=39621" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="./Geodata Metadata Requirements - OSGeo Wiki_files/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki"></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/2.5/legalcode"><img src="./Geodata Metadata Requirements - OSGeo Wiki_files/somerights20.png" alt="Creative Commons Legal Code" width="88" height="31"></a></div>
+			<ul id="f-list">
+				<li id="lastmod"> This page was last modified on 5 July 2009, at 22:18.</li>
+				<li id="viewcount">This page has been accessed 65,829 times.</li>
+				<li id="copyright">Content is available under the Creative Commons Attribution-ShareAlike License.</li>
+				<li id="privacy"><a href="http://wiki.osgeo.org/wiki/OSGeo_Wiki:Privacy_policy" title="OSGeo Wiki:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="http://wiki.osgeo.org/wiki/OSGeo_Wiki:About" title="OSGeo Wiki:About">About OSGeo Wiki</a></li>
+				<li id="disclaimer"><a href="http://wiki.osgeo.org/wiki/OSGeo_Wiki:General_disclaimer" title="OSGeo Wiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+		
+	
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served in 0.359 secs. -->
+</body></html>

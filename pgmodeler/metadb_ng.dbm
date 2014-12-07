@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+CAUTION: Do not modify this file unless you know what you are doing.
+         Unexpected results may occur if the code is changed deliberately.
+-->
+<dbmodel pgmodeler-ver="0.7.2" last-position="0,0" last-zoom="1">
+<role name="stefan"
+      createdb="true"
+      createrole="true"
+      login="true">
+</role>
+
+<role name="mspublic"
+      login="true">
+</role>
+
+<database name="rosebud2">
+	<role name="stefan"/>
+</database>
+
+<schema name="public" protected="true" fill-color="#e1e1e1" sql-disabled="true">
+</schema>
+
+<schema name="metadb_ng" fill-color="#e1e1e1">
+	<role name="stefan"/>
+</schema>
+
+<table name="metadb">
+	<schema name="metadb_ng"/>
+	<role name="stefan"/>
+	<position x="132" y="158"/>
+	<column name="ogc_fid">
+		<type name="serial"/>
+	</column>
+	<constraint name="metadb_pkey" type="pk-constr" factor="100" table="metadb_ng.metadb">
+		<columns names="ogc_fid" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<permission>
+	<object name="metadb_ng" type="schema"/>
+	<roles names="mspublic"/>
+	<privileges usage="true"/>
+</permission>
+<permission>
+	<object name="metadb_ng.metadb" type="table"/>
+	<roles names="mspublic"/>
+	<privileges select="true"/>
+</permission>
+</dbmodel>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0">
+    <title>AV - Oensingen (2407)</title>
+    <subtitle>Amtliche Vermessung der Gemeinde Oensingen (2407)</subtitle>
+    <link href="http://www.catais.org/inspire/dls/2e23abe1-8722-4a77-9985-dc06cad1805b.xml" hreflang="de" rel="self" type="application/atom+xml" title="Dataset Feed"/>
+    <link href="http://www.catais.org/inspire/dls/amtlichevermessung.xml" hreflang="de" rel="up" type="application/atom+xml" title="Download Service Feed"/>
+    <link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />    
+    <id>http://www.catais.org/inspire/dls/2e23abe1-8722-4a77-9985-dc06cad1805b</id>
+    <rights>Daten dürfen frei genutzt werden.</rights>
+    <updated>2014-12-01T00:00:00Z</updated>
+    <author>
+        <name>Amt für Geoinformation Kanton Solothurn</name>
+        <email>agi@bd.so.ch</email>
+    </author>
+        
+    <entry>
+        <title>AV - Oensingen (2407) / INTERLIS 1 - LV03</title>
+        <link href="http://www.catais.org/geodaten/ch/so/kva/av/dm01avch24d/itf/lv03/ch_240700.zip" hreflang="de" type="application/x-itz" title="AV - Oensingen (2407) / INTERLIS 1 - LV03" rel="alternate"/>        
+        <id>http://www.catais.org/geodaten/ch/so/kva/av/dm01avch24d/itf/lv03/ch_240700.zip-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25911270 7.68476938 47.30893034 7.75222888</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="LV03" />
+    </entry>
+        
+    <entry>
+        <title>AV - Oensingen (2407) / Shapefile - LV03</title>
+        <link href="http://www.catais.org/geodaten/ch/so/kva/av/mopublic/shp/lv03/d/2407.zip" hreflang="de" type="application/x-shapefile" title="AV - Oensingen (2407) / Shapefile - LV03" rel="alternate"/>        
+        <id>http://www.catais.org/geodaten/ch/so/kva/av/mopublic/shp/lv03/d/2407.zip-2014-12-01T00:00:00Z</id>
+        <rights>Daten dürfen frei genutzt werden.</rights>
+        <updated>2014-12-01T00:00:00Z</updated>
+        <georss:box>47.25911270 7.68476938 47.30893034 7.75222888</georss:box>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="LV03" />
+    </entry>
+        
+</feed>

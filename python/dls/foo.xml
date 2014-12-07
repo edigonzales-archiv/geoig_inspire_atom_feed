@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0">
+<title>Example Atom Feed</title>
+<subtitle>Insert a Subtitle Here</subtitle>
+<link href="http://domain.com"/>
+<updated>2006-12-13T18:20:02Z</updated>
+<author>
+<name>Your Name</name>
+<email>you@domain.com</email>
+</author>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1" rel="alternate" type="application/atom+xml" title="Dataset Feed"/>
+
+<id>foo6</id>
+<updated>2014-11-05T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1" rel="alternate" type="application/atom+xml" title="Dataset Feed"/>
+<link href="http://www.geocat.ch/geonetwork/srv/ger/csw?service=CSW%26request=GetRecordById%26version=2.0.2%26ElementSetName=full%26outputFormat=application/xml%26outputSchema=http://www.isotc211.org/2005/gmd%26Id=ab7a03e2-4bdd-4a49-bd92-4b0028bfcd51" rel="describedby" type="application/vnd.ogc.csw.GetRecordByIdResponse_xml" title="Dataset Metadata" />
+
+<id>foo4</id>
+<updated>2014-11-04T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1" rel="alternate" type="application/atom+xml" title="Dataset Feed"/>
+<id>foo3</id>
+<updated>2014-11-03T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1"/>
+<id>foo2</id>
+<updated>2014-11-02T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1"/>
+<id>foo1</id>
+<updated>2014-11-01T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7f</id>
+<updated>2014-10-31T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7e</id>
+<updated>2014-10-30T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7d</id>
+<updated>2014-10-29T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/10a6783d-729c-4ab8-8c3c-20d850af7eb1.xml1"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7c</id>
+<updated>2014-10-28T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://www.catais.org/inspire/dls/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7b</id>
+<updated>2014-10-27T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://domain.com/page/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa7a</id>
+<updated>2014-10-26T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://domain.com/page/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6h</id>
+<updated>2014-10-25T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6g</id>
+<updated>2014-10-24T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6f</id>
+<updated>2014-10-23T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6e</id>
+<updated>2014-10-22T18:23:02Z</updated>
+        <inspire_dls:spatial_dataset_identifier_code>10a6783d-729c-4ab8-8c3c-20d850af7eb1</inspire_dls:spatial_dataset_identifier_code>
+        <inspire_dls:spatial_dataset_identifier_namespace>http://www.agi.so.ch</inspire_dls:spatial_dataset_identifier_namespace>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6d</id>
+<updated>2014-10-21T18:23:02Z</updated>
+<summary>Short Summary</summary>
+        <category term="http://www.opengis.net/def/crs/EPSG/0/21781" label="EPSG 21781" />
+        <category term="http://www.opengis.net/def/crs/EPSG/0/2056" label="EPSG 2056" />
+</entry>
+
+
+<entry>
+<title>Neuer titel2</title>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6c</id>
+<updated>2014-10-20T18:23:02Z</updated>
+<summary>Short Summary</summary>
+</entry>
+
+<entry>
+<title>Neuer titel2</title>
+<link href="http://domain.com/page/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6c</id>
+<updated>2006-12-15T18:23:02Z</updated>
+<summary>Short Summary</summary>
+</entry>
+<entry>
+<title>Neuer titel</title>
+<link href="http://domain.com/page/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b</id>
+<updated>2006-12-14T18:23:02Z</updated>
+<summary>Short Summary</summary>
+</entry>
+<entry>
+<title>Your Title Here</title>
+<link href="http://domain.com/page/ "/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>2006-12-13T18:20:02Z</updated>
+<summary>Short Summary</summary>
+</entry>
+</feed>

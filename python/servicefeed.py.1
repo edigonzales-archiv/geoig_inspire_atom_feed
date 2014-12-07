@@ -1,0 +1,67 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import psycopg2
+import psycopg2.extras
+import jinja2
+import datetime
+import sys
+
+from pytz import timezone
+
+psycopg2.extensions.register_type(psycopg2.extensions.UNICODE)
+
+con = None
+
+try:
+     
+    con = psycopg2.connect(database='rosebud2', user='stefan', password='ziegler12') 
+    cur = con.cursor(cursor_factory=psycopg2.extras.DictCursor)
+    
+    sql = """SELECT a.*, c.uri, c.format, round(y_min::numeric, 8) || ' ' || round(x_min::numeric, 8) || ' ' || round(y_max::numeric, 8) || ' ' || round(x_max::numeric, 8) as bbox
+FROM metadb_ng.metadb as a,
+(
+ SELECT metadb_id_child as id
+ FROM metadb_ng.metadb_relation
+ WHERE metadb_id_parent = 'fd6884e2-385c-463a-a59a-447560bd187c'
+) as b,
+metadb_ng.onlineresource as c
+WHERE a.identifier = b.id
+AND a.identifier = c.metadb_id
+ORDER BY a.title"""
+
+    cur.execute(sql)          
+    
+    rows = cur.fetchall()
+    
+    items = []
+    mytimezone = timezone('Europe/Amsterdam')
+    max_modified = datetime.datetime.strptime( "1900-01-01T00:00:00", "%Y-%m-%dT%H:%M:%S" )
+    for row in rows:
+        if row['modified'] > max_modified:
+            max_modified = row['modified']
+        item = row
+        print item['modified']
+        print item
+        #item['updated'] = mytimezone.localize(row['modified']).strftime('%Y-%m-%dT%H:%M:%S%z')
+        
+        items.append(item)
+  
+    max_modified_tz = mytimezone.localize(max_modified)
+    updated = max_modified_tz.strftime('%Y-%m-%dT%H:%M:%S%z')
+    
+
+except psycopg2.DatabaseError, e:
+    print 'Error %s' % e    
+    sys.exit(1)
+
+
+finally:
+    
+    if con:
+        con.close()
+        
+        
+env = jinja2.Environment(loader=jinja2.FileSystemLoader("."))
+#print env.get_template("template_servicefeed.xml").render(items = items, updated = updated).encode('utf-8')
+        
